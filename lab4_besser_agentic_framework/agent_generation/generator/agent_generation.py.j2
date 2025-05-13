@@ -1,0 +1,59 @@
+# You may need to add your working directory to the Python path. To do so, uncomment the following lines of code
+# import sys
+# sys.path.append("/Path/to/directory/agentic-framework") # Replace with your directory path
+
+import logging
+
+from besser.agent.core.agent import Agent
+from besser.agent.core.session import Session
+
+# Configure the logging module
+logging.basicConfig(level=logging.INFO, format='{levelname} - {asctime}: {message}', style='{')
+
+# Create the agent
+agent = Agent('{{ agent_name }}')
+# Load agent properties stored in a dedicated file
+agent.load_properties('config.ini')
+# Define the platform your agent will use
+websocket_platform = agent.use_websocket_platform(use_ui=False)
+
+######################
+### YOUR CODE HERE ###
+######################
+# STATES
+
+initial_state = agent.new_state('initial_state', initial=True)
+awaiting_state = agent.new_state('awaiting_state')
+
+
+# STATES BODIES' DEFINITION + TRANSITIONS
+
+def initial_body(session: Session):
+    pass
+
+
+initial_state.set_body(initial_body)
+initial_state.go_to(awaiting_state)
+
+
+def awaiting_body(session: Session):
+    session.reply('Hi! What can I do for you?')
+
+
+awaiting_state.set_body(awaiting_body)
+awaiting_state.when_no_intent_matched_go_to(awaiting_state)  # REMOVE THIS TRANSITION ONCE YOU START DEVELOPING THE AGENT
+
+{% for element in data.keys() %}
+    {{element.name}}_state=agent.new_state('{{element.name}}_state')
+    {{element.name}}_intent = agent.new_intent('instruction_intent', description='The message is an instruction. Do not consider questions as instructions.')
+    awaiting_state.when_intent_matched_go_to({{element.name}}_intent, {{element.name}}_state)
+
+    def {{element.name}}_body(session: Session):
+        # You can add some instructions together with the message to adapt the LLM message (e.g., "You are an expert in...", "You are talking to a kid...", etc.)
+        ##iterate over answers and print the one that fits the element
+        session.reply({{ element.answer }})
+
+
+    {{element.name}}_state.set_body({{element.name}}_body)
+    {{element.name}}_state.go_to(awaiting_state)
+{% endfor %}

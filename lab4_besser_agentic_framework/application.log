@@ -1,0 +1,1857 @@
+2025-04-02 13:33:42,619 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 13:50:00,904 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 13:51:31,263 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 13:56:21,295 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 13:56:29,156 - INFO - rag_agent training started
+2025-04-02 13:56:29,156 - INFO - NER successfully trained.
+2025-04-02 13:56:29,156 - INFO - rag_agent training finished
+2025-04-02 13:56:29,157 - INFO - Running Streamlit UI in another thread
+2025-04-02 13:56:29,169 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-04-02 13:56:34,170 - INFO - [initial_state] Running body initial_body
+2025-04-02 13:56:34,170 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-04-02 13:56:34,171 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 13:56:43,185 - INFO - Received file
+2025-04-02 13:56:43,185 - INFO - file_received: [awaiting_state] --> [load_document_state]
+2025-04-02 13:56:43,185 - INFO - [load_document_state] Running body load_document_body
+2025-04-02 13:56:43,186 - ERROR - An error occurred while executing 'load_document_body' of state 'load_document_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 13:56:43,197 - INFO - auto: [load_document_state] --> [awaiting_state]
+2025-04-02 13:56:43,197 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 13:56:58,301 - INFO - Received message: what are the fundamentals?
+2025-04-02 13:56:58,301 - INFO - Detected intent: fallback_intent
+2025-04-02 13:56:58,302 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-04-02 13:56:58,302 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 13:57:09,183 - INFO - Received message: given file
+2025-04-02 13:57:09,183 - INFO - Detected intent: fallback_intent
+2025-04-02 13:57:09,183 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-04-02 13:57:09,183 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:01:05,159 - INFO - Stopping agent rag_agent
+2025-04-02 14:01:05,159 - INFO - rag_agent's WebSocketPlatform stopped
+2025-04-02 14:01:05,358 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-04-02 14:01:13,629 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 14:01:16,238 - INFO - rag_agent training started
+2025-04-02 14:01:16,239 - INFO - NER successfully trained.
+2025-04-02 14:01:16,239 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-04-02 14:01:16,239 - INFO - rag_agent training finished
+2025-04-02 14:01:16,240 - INFO - Running Streamlit UI in another thread
+2025-04-02 14:01:16,252 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-04-02 14:01:51,780 - INFO - Stopping agent rag_agent
+2025-04-02 14:01:51,780 - INFO - rag_agent's WebSocketPlatform stopped
+2025-04-02 14:01:52,270 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-04-02 14:01:58,396 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 14:02:00,365 - INFO - rag_agent training started
+2025-04-02 14:02:00,365 - INFO - NER successfully trained.
+2025-04-02 14:02:00,365 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-04-02 14:02:00,365 - INFO - rag_agent training finished
+2025-04-02 14:02:00,366 - INFO - Running Streamlit UI in another thread
+2025-04-02 14:02:00,379 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-04-02 14:03:04,808 - INFO - Stopping agent rag_agent
+2025-04-02 14:03:04,808 - INFO - rag_agent's WebSocketPlatform stopped
+2025-04-02 14:03:05,424 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-04-02 14:04:04,236 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 14:04:06,164 - INFO - rag_agent training started
+2025-04-02 14:04:06,164 - INFO - NER successfully trained.
+2025-04-02 14:04:06,164 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-04-02 14:04:06,164 - INFO - rag_agent training finished
+2025-04-02 14:04:06,165 - INFO - Running Streamlit UI in another thread
+2025-04-02 14:04:06,177 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-04-02 14:04:08,686 - INFO - [initial_state] Running body initial_body
+2025-04-02 14:04:08,686 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-04-02 14:04:08,686 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:04:17,256 - INFO - Received file
+2025-04-02 14:04:17,256 - INFO - file_received: [awaiting_state] --> [load_document_state]
+2025-04-02 14:04:17,256 - INFO - [load_document_state] Running body load_document_body
+2025-04-02 14:04:17,256 - ERROR - An error occurred while executing 'load_document_body' of state 'load_document_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:04:17,259 - INFO - auto: [load_document_state] --> [awaiting_state]
+2025-04-02 14:04:17,259 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:04:24,353 - INFO - Received message: what are the fundamentals?
+2025-04-02 14:04:25,969 - INFO - Detected intent: question_intent
+2025-04-02 14:04:25,969 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:04:25,970 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:04:25,970 - ERROR - An error occurred while executing 'rag_body' of state 'rag_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:04:25,980 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:04:25,980 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:04:31,037 - INFO - Received message: hi
+2025-04-02 14:04:32,467 - INFO - Detected intent: fallback_intent
+2025-04-02 14:04:32,467 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-04-02 14:04:32,467 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:04:52,183 - INFO - Received message: what is the pdf about?
+2025-04-02 14:04:53,369 - INFO - Detected intent: question_intent
+2025-04-02 14:04:53,369 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:04:53,369 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:04:53,369 - ERROR - An error occurred while executing 'rag_body' of state 'rag_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:04:53,370 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:04:53,370 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:09:11,568 - INFO - Stopping agent rag_agent
+2025-04-02 14:09:11,571 - INFO - rag_agent's WebSocketPlatform stopped
+2025-04-02 14:09:12,390 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-04-02 14:09:47,681 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 14:10:17,805 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 14:10:47,869 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 14:10:49,909 - INFO - rag_agent training started
+2025-04-02 14:10:49,910 - INFO - NER successfully trained.
+2025-04-02 14:10:49,910 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-04-02 14:10:49,910 - INFO - rag_agent training finished
+2025-04-02 14:10:49,911 - INFO - Running Streamlit UI in another thread
+2025-04-02 14:10:49,925 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-04-02 14:10:52,584 - INFO - [initial_state] Running body initial_body
+2025-04-02 14:10:52,585 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-04-02 14:10:52,585 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:10:57,793 - INFO - Received file
+2025-04-02 14:10:57,793 - INFO - file_received: [awaiting_state] --> [load_document_state]
+2025-04-02 14:10:57,793 - INFO - [load_document_state] Running body load_document_body
+2025-04-02 14:10:57,793 - ERROR - An error occurred while executing 'load_document_body' of state 'load_document_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:10:57,815 - INFO - auto: [load_document_state] --> [awaiting_state]
+2025-04-02 14:10:57,815 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:11:00,803 - INFO - Received message: funda?
+2025-04-02 14:11:02,278 - INFO - Detected intent: question_intent
+2025-04-02 14:11:02,278 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:11:02,279 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:11:02,279 - ERROR - An error occurred while executing 'rag_body' of state 'rag_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:11:02,291 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:11:02,291 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:11:09,495 - INFO - Received message: what is paper about?
+2025-04-02 14:11:12,594 - INFO - Detected intent: question_intent
+2025-04-02 14:11:12,594 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:11:12,594 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:11:12,594 - ERROR - An error occurred while executing 'rag_body' of state 'rag_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:11:12,595 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:11:12,595 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:16:49,329 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 14:16:55,745 - INFO - rag_agent training started
+2025-04-02 14:16:55,745 - INFO - NER successfully trained.
+2025-04-02 14:16:55,745 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-04-02 14:16:55,745 - INFO - rag_agent training finished
+2025-04-02 14:16:55,746 - INFO - Running Streamlit UI in another thread
+2025-04-02 14:16:55,760 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-04-02 14:16:58,484 - INFO - [initial_state] Running body initial_body
+2025-04-02 14:16:58,484 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-04-02 14:16:58,484 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:17:06,323 - INFO - Received file
+2025-04-02 14:17:06,323 - INFO - file_received: [awaiting_state] --> [load_document_state]
+2025-04-02 14:17:06,324 - INFO - [load_document_state] Running body load_document_body
+2025-04-02 14:17:06,324 - ERROR - An error occurred while executing 'load_document_body' of state 'load_document_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:17:06,326 - INFO - auto: [load_document_state] --> [awaiting_state]
+2025-04-02 14:17:06,326 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:17:16,372 - INFO - Received message: whats in the paper?
+2025-04-02 14:17:17,687 - INFO - Detected intent: question_intent
+2025-04-02 14:17:17,688 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:17:17,688 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:17:20,825 - ERROR - An error occurred while executing 'rag_body' of state 'rag_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:17:20,898 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:17:20,898 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:18:26,189 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 14:18:28,873 - INFO - rag_agent training started
+2025-04-02 14:18:28,873 - INFO - rag_agent training started
+2025-04-02 14:18:28,873 - INFO - NER successfully trained.
+2025-04-02 14:18:28,874 - INFO - NER successfully trained.
+2025-04-02 14:18:28,874 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-04-02 14:18:28,874 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-04-02 14:18:28,874 - INFO - rag_agent training finished
+2025-04-02 14:18:28,874 - INFO - rag_agent training finished
+2025-04-02 14:18:28,875 - INFO - Running Streamlit UI in another thread
+2025-04-02 14:18:28,876 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-04-02 14:19:30,798 - INFO - [initial_state] Running body initial_body
+2025-04-02 14:19:30,798 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-04-02 14:19:30,798 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:19:35,475 - INFO - Received file
+2025-04-02 14:19:35,475 - INFO - file_received: [awaiting_state] --> [load_document_state]
+2025-04-02 14:19:35,475 - INFO - [load_document_state] Running body load_document_body
+2025-04-02 14:19:35,476 - ERROR - An error occurred while executing 'load_document_body' of state 'load_document_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:19:35,478 - INFO - auto: [load_document_state] --> [awaiting_state]
+2025-04-02 14:19:35,478 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:19:38,269 - INFO - Received message: whats?
+2025-04-02 14:19:40,971 - INFO - Detected intent: question_intent
+2025-04-02 14:19:40,971 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:19:40,972 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:19:43,278 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:19:43,278 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:19:52,911 - INFO - Received message: whats the fundamentals?
+2025-04-02 14:19:53,735 - INFO - Detected intent: question_intent
+2025-04-02 14:19:53,736 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:19:53,736 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:19:57,113 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:19:57,113 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:20:38,405 - INFO - Received message: describe On Benchmarking for
+Concurrent Runtime Verification ?
+2025-04-02 14:20:44,148 - INFO - Detected intent: question_intent
+2025-04-02 14:20:44,148 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:20:44,148 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:20:46,513 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:20:46,513 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:28:25,068 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 14:28:27,802 - INFO - rag_agent training started
+2025-04-02 14:28:27,802 - INFO - NER successfully trained.
+2025-04-02 14:28:27,802 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-04-02 14:28:27,802 - INFO - rag_agent training finished
+2025-04-02 14:28:27,803 - INFO - Running Streamlit UI in another thread
+2025-04-02 14:28:27,819 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-04-02 14:28:30,229 - INFO - [initial_state] Running body initial_body
+2025-04-02 14:28:30,229 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-04-02 14:28:30,229 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:28:43,064 - INFO - Received message: say a joke
+2025-04-02 14:28:44,086 - INFO - Detected intent: fallback_intent
+2025-04-02 14:28:44,087 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-04-02 14:28:44,087 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:28:49,448 - INFO - Received message: say a joke
+2025-04-02 14:28:53,588 - INFO - Detected intent: question_intent
+2025-04-02 14:28:53,588 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:28:53,588 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:28:55,571 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:28:55,571 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:29:38,525 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 14:29:40,729 - INFO - rag_agent training started
+2025-04-02 14:29:40,730 - INFO - NER successfully trained.
+2025-04-02 14:29:40,730 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-04-02 14:29:40,730 - INFO - rag_agent training finished
+2025-04-02 14:29:40,731 - INFO - Running Streamlit UI in another thread
+2025-04-02 14:29:40,745 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-04-02 14:30:37,856 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 14:30:40,070 - INFO - rag_agent training started
+2025-04-02 14:30:40,071 - INFO - NER successfully trained.
+2025-04-02 14:30:40,071 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-04-02 14:30:40,071 - INFO - rag_agent training finished
+2025-04-02 14:30:40,072 - INFO - Running Streamlit UI in another thread
+2025-04-02 14:30:40,072 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-04-02 14:30:42,467 - INFO - [initial_state] Running body initial_body
+2025-04-02 14:30:42,467 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-04-02 14:30:42,467 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:30:47,058 - INFO - Received message: say a joke
+2025-04-02 14:30:48,504 - INFO - Detected intent: instruction_intent
+2025-04-02 14:30:48,505 - INFO - intent_matched (instruction_intent): [awaiting_state] --> [llm_state]
+2025-04-02 14:30:48,505 - INFO - [llm_state] Running body llm_body
+2025-04-02 14:30:49,319 - INFO - auto: [llm_state] --> [awaiting_state]
+2025-04-02 14:30:49,319 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:31:13,884 - INFO - Received message: another one
+2025-04-02 14:31:15,425 - INFO - Detected intent: question_intent
+2025-04-02 14:31:15,425 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:31:15,426 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:31:17,309 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:31:17,310 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:31:25,191 - INFO - Received message: another joke
+2025-04-02 14:31:26,392 - INFO - Detected intent: fallback_intent
+2025-04-02 14:31:26,393 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-04-02 14:31:26,393 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:31:47,682 - INFO - Received message: say another joke
+2025-04-02 14:31:48,754 - INFO - Detected intent: instruction_intent
+2025-04-02 14:31:48,755 - INFO - intent_matched (instruction_intent): [awaiting_state] --> [llm_state]
+2025-04-02 14:31:48,755 - INFO - [llm_state] Running body llm_body
+2025-04-02 14:31:49,894 - INFO - auto: [llm_state] --> [awaiting_state]
+2025-04-02 14:31:49,894 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:32:02,932 - INFO - Received message: say another joke
+2025-04-02 14:32:04,203 - INFO - Detected intent: instruction_intent
+2025-04-02 14:32:04,203 - INFO - intent_matched (instruction_intent): [awaiting_state] --> [llm_state]
+2025-04-02 14:32:04,205 - INFO - [llm_state] Running body llm_body
+2025-04-02 14:32:05,281 - INFO - auto: [llm_state] --> [awaiting_state]
+2025-04-02 14:32:05,281 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:37:45,575 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 14:37:47,798 - INFO - rag_agent training started
+2025-04-02 14:37:47,798 - INFO - NER successfully trained.
+2025-04-02 14:37:47,798 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-04-02 14:37:47,798 - INFO - rag_agent training finished
+2025-04-02 14:37:47,799 - INFO - Running Streamlit UI in another thread
+2025-04-02 14:37:47,813 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-04-02 14:37:50,262 - INFO - [initial_state] Running body initial_body
+2025-04-02 14:37:50,262 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-04-02 14:37:50,262 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:37:55,040 - INFO - Received message: hi whats up?
+2025-04-02 14:37:56,293 - INFO - Detected intent: question_intent
+2025-04-02 14:37:56,293 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:37:56,293 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:37:58,648 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:37:58,648 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:38:06,138 - INFO - Received message: say a joke
+2025-04-02 14:38:08,316 - INFO - Detected intent: instruction_intent
+2025-04-02 14:38:08,317 - INFO - intent_matched (instruction_intent): [awaiting_state] --> [llm_state]
+2025-04-02 14:38:08,317 - INFO - [llm_state] Running body llm_body
+2025-04-02 14:38:11,020 - INFO - auto: [llm_state] --> [awaiting_state]
+2025-04-02 14:38:11,020 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:38:18,563 - INFO - Received message: you already said it
+2025-04-02 14:38:20,006 - INFO - Detected intent: question_intent
+2025-04-02 14:38:20,006 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:38:20,006 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:38:21,569 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:38:21,569 - INFO - [awaiting_state] Running body awaiting_body
+2025-04-02 14:40:40,124 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 14:40:48,056 - INFO - rag_agent training started
+2025-04-02 14:40:48,056 - INFO - NER successfully trained.
+2025-04-02 14:40:48,056 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-04-02 14:40:48,056 - INFO - rag_agent training finished
+2025-04-02 14:40:48,057 - INFO - Running Streamlit UI in another thread
+2025-04-02 14:40:48,058 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-04-02 14:40:50,705 - INFO - [initial_state] Running body initial_body
+2025-04-02 14:40:50,705 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-04-02 14:40:50,705 - INFO - [awaiting_state] Running body process_intent
+2025-04-02 14:40:50,705 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:41:04,864 - INFO - Received message: hi whats up?
+2025-04-02 14:41:07,344 - INFO - Detected intent: question_intent
+2025-04-02 14:41:07,344 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:41:07,345 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:41:09,834 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:41:09,834 - INFO - [awaiting_state] Running body process_intent
+2025-04-02 14:41:09,834 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:41:15,888 - INFO - Received message: say a joke
+2025-04-02 14:41:17,667 - INFO - Detected intent: instruction_intent
+2025-04-02 14:41:17,667 - INFO - intent_matched (instruction_intent): [awaiting_state] --> [llm_state]
+2025-04-02 14:41:17,667 - INFO - [llm_state] Running body llm_body
+2025-04-02 14:41:18,607 - INFO - auto: [llm_state] --> [awaiting_state]
+2025-04-02 14:41:18,608 - INFO - [awaiting_state] Running body process_intent
+2025-04-02 14:41:18,608 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:41:24,997 - INFO - Received file
+2025-04-02 14:41:24,998 - INFO - file_received: [awaiting_state] --> [load_document_state]
+2025-04-02 14:41:24,999 - INFO - [load_document_state] Running body load_document_body
+2025-04-02 14:41:24,999 - ERROR - An error occurred while executing 'load_document_body' of state 'load_document_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:41:24,999 - INFO - auto: [load_document_state] --> [awaiting_state]
+2025-04-02 14:41:24,999 - INFO - [awaiting_state] Running body process_intent
+2025-04-02 14:41:24,999 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:41:28,823 - INFO - Received message: whats in the paper?
+2025-04-02 14:41:30,445 - INFO - Detected intent: question_intent
+2025-04-02 14:41:30,446 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:41:30,446 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:41:32,707 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:41:32,707 - INFO - [awaiting_state] Running body process_intent
+2025-04-02 14:41:32,707 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:41:51,361 - INFO - Received message: what is the definition of runtime verification in paper?
+2025-04-02 14:41:53,075 - INFO - Detected intent: question_intent
+2025-04-02 14:41:53,076 - INFO - intent_matched (question_intent): [awaiting_state] --> [rag_state]
+2025-04-02 14:41:53,076 - INFO - [rag_state] Running body rag_body
+2025-04-02 14:41:55,582 - INFO - auto: [rag_state] --> [awaiting_state]
+2025-04-02 14:41:55,583 - INFO - [awaiting_state] Running body process_intent
+2025-04-02 14:41:55,583 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:42:21,653 - INFO - Received message: talk about On Benchmarking for
+Concurrent Runtime Verification⋆ of the pdf
+2025-04-02 14:42:22,841 - INFO - Detected intent: instruction_intent
+2025-04-02 14:42:22,841 - INFO - intent_matched (instruction_intent): [awaiting_state] --> [llm_state]
+2025-04-02 14:42:22,841 - INFO - [llm_state] Running body llm_body
+2025-04-02 14:42:32,451 - INFO - auto: [llm_state] --> [awaiting_state]
+2025-04-02 14:42:32,451 - INFO - [awaiting_state] Running body process_intent
+2025-04-02 14:42:32,451 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 14:49:44,896 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 14:52:30,883 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 15:20:20,683 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 15:37:45,399 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-04-02 15:37:54,758 - INFO - rag_agent training started
+2025-04-02 15:37:54,758 - INFO - NER successfully trained.
+2025-04-02 15:37:54,758 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-04-02 15:37:54,758 - INFO - rag_agent training finished
+2025-04-02 15:37:54,759 - INFO - Running Streamlit UI in another thread
+2025-04-02 15:37:54,759 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-04-02 15:37:57,921 - INFO - [initial_state] Running body initial_body
+2025-04-02 15:37:57,921 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-04-02 15:37:57,921 - INFO - [awaiting_state] Running body process_intent
+2025-04-02 15:37:57,921 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-04-02 15:42:10,217 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 11:33:42,924 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 11:37:34,604 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 11:41:02,095 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 11:42:40,044 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 11:44:32,696 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 11:45:42,946 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 11:45:57,944 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 11:47:12,590 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 11:52:05,499 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 11:52:53,959 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 11:53:14,610 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 11:53:16,122 - INFO - Stemmer added: english
+2025-05-07 11:54:14,007 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 11:54:16,211 - INFO - Stemmer added: english
+2025-05-07 11:57:17,657 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 11:57:30,597 - INFO - Stemmer added: english
+2025-05-07 13:20:57,405 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 13:21:25,673 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 13:21:53,261 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 13:22:19,133 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 13:22:20,560 - INFO - Stemmer added: english
+2025-05-07 13:22:36,236 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 13:26:49,551 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 13:28:44,579 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 13:29:23,106 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 13:33:06,265 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-07 13:36:11,516 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 11:47:05,808 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 11:48:05,330 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 11:48:48,406 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 11:48:50,427 - INFO - Stemmer added: english
+2025-05-08 11:49:06,905 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 11:50:34,448 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 11:50:37,320 - INFO - Stemmer added: english
+2025-05-08 11:51:13,926 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 11:51:34,203 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 11:51:36,641 - INFO - Stemmer added: english
+2025-05-08 11:52:45,900 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 11:52:48,276 - INFO - Stemmer added: english
+2025-05-08 11:54:02,900 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 11:54:05,159 - INFO - Stemmer added: english
+2025-05-08 11:58:04,099 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 11:58:07,236 - INFO - Stemmer added: english
+2025-05-08 12:00:57,340 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 12:01:00,747 - INFO - Stemmer added: english
+2025-05-08 13:41:56,359 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 13:42:03,587 - INFO - Stemmer added: english
+2025-05-08 13:55:20,268 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 13:55:28,535 - INFO - rag_agent training started
+2025-05-08 13:55:28,535 - INFO - NER successfully trained.
+2025-05-08 13:55:28,535 - INFO - rag_agent training finished
+2025-05-08 13:55:28,536 - INFO - Running Streamlit UI in another thread
+2025-05-08 13:55:28,548 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 13:55:32,062 - INFO - [initial_state] Running body initial_body
+2025-05-08 13:55:32,063 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-05-08 13:55:32,063 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 13:55:38,021 - INFO - Received message: hi
+2025-05-08 13:55:38,022 - INFO - Detected intent: fallback_intent
+2025-05-08 13:55:38,022 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 13:55:38,022 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 13:56:37,971 - INFO - Stopping agent rag_agent
+2025-05-08 13:56:37,971 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 13:56:38,586 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 13:56:45,248 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 13:56:49,298 - INFO - rag_agent training started
+2025-05-08 13:56:49,298 - INFO - NER successfully trained.
+2025-05-08 13:56:49,299 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 13:56:49,299 - INFO - rag_agent training finished
+2025-05-08 13:56:49,300 - INFO - Running Streamlit UI in another thread
+2025-05-08 13:56:49,316 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 13:56:51,998 - INFO - [initial_state] Running body initial_body
+2025-05-08 13:56:51,998 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-05-08 13:56:51,998 - INFO - [awaiting_state] Running body process_intent
+2025-05-08 13:56:51,998 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 13:56:57,687 - INFO - Received message: hi
+2025-05-08 13:56:58,222 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 13:56:58,275 - INFO - Detected intent: fallback_intent
+2025-05-08 13:56:58,275 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 13:56:58,275 - INFO - [awaiting_state] Running body process_intent
+2025-05-08 13:56:58,275 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:11:43,517 - INFO - Stopping agent rag_agent
+2025-05-08 14:11:43,519 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:11:43,953 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:12:09,815 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:12:20,682 - INFO - rag_agent training started
+2025-05-08 14:12:20,682 - INFO - NER successfully trained.
+2025-05-08 14:12:20,682 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 14:12:20,682 - INFO - rag_agent training finished
+2025-05-08 14:12:20,683 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:12:20,696 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:13:04,223 - INFO - [initial_state] Running body initial_body
+2025-05-08 14:13:04,223 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-05-08 14:13:04,223 - INFO - [awaiting_state] Running body process_intent
+2025-05-08 14:13:04,223 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:13:10,295 - INFO - Received message: hi
+2025-05-08 14:13:13,366 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 14:13:13,423 - INFO - Detected intent: fallback_intent
+2025-05-08 14:13:13,423 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 14:13:13,423 - INFO - [awaiting_state] Running body process_intent
+2025-05-08 14:13:13,424 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:20:15,632 - INFO - Stopping agent rag_agent
+2025-05-08 14:20:15,633 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:20:16,049 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:26:24,841 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:31:03,941 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:31:39,731 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:31:42,562 - INFO - rag_agent training started
+2025-05-08 14:31:42,562 - INFO - NER successfully trained.
+2025-05-08 14:31:42,562 - INFO - rag_agent training finished
+2025-05-08 14:31:42,564 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:31:42,578 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:32:46,466 - INFO - Stopping agent rag_agent
+2025-05-08 14:32:46,468 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:32:46,606 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:32:59,669 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:33:02,539 - INFO - rag_agent training started
+2025-05-08 14:33:02,539 - INFO - NER successfully trained.
+2025-05-08 14:33:02,539 - INFO - rag_agent training finished
+2025-05-08 14:33:02,540 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:33:02,556 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:33:05,617 - INFO - [initial_state] Running body initial_body
+2025-05-08 14:33:05,618 - ERROR - An error occurred while executing 'initial_body' of state 'initial_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:34:41,958 - INFO - Stopping agent rag_agent
+2025-05-08 14:34:41,959 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:34:42,599 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:34:50,578 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:34:53,341 - INFO - rag_agent training started
+2025-05-08 14:34:53,341 - INFO - NER successfully trained.
+2025-05-08 14:34:53,341 - INFO - rag_agent training finished
+2025-05-08 14:34:53,342 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:34:53,357 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:35:41,840 - INFO - [initial_state] Running body initial_body
+2025-05-08 14:35:41,841 - ERROR - An error occurred while executing 'initial_body' of state 'initial_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:36:05,278 - INFO - Stopping agent rag_agent
+2025-05-08 14:36:05,278 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:36:05,399 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:37:06,092 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:37:09,101 - INFO - rag_agent training started
+2025-05-08 14:37:09,101 - INFO - NER successfully trained.
+2025-05-08 14:37:09,101 - INFO - rag_agent training finished
+2025-05-08 14:37:09,102 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:37:09,117 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:37:11,744 - INFO - [initial_state] Running body initial_body
+2025-05-08 14:37:11,744 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-05-08 14:37:11,744 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 14:37:21,022 - INFO - Received message: hi
+2025-05-08 14:37:21,023 - INFO - Detected intent: fallback_intent
+2025-05-08 14:37:21,023 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 14:37:21,023 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 14:37:24,698 - INFO - Received message: whats up?
+2025-05-08 14:37:24,698 - INFO - Detected intent: fallback_intent
+2025-05-08 14:37:24,698 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 14:37:24,698 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 14:37:27,617 - INFO - Received message: joke?
+2025-05-08 14:37:27,617 - INFO - Detected intent: fallback_intent
+2025-05-08 14:37:27,617 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 14:37:27,618 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 14:38:11,882 - INFO - Stopping agent rag_agent
+2025-05-08 14:38:11,883 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:38:12,146 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:38:20,018 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:38:24,253 - INFO - rag_agent training started
+2025-05-08 14:38:24,253 - INFO - NER successfully trained.
+2025-05-08 14:38:24,253 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 14:38:24,253 - INFO - rag_agent training finished
+2025-05-08 14:38:24,254 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:38:24,270 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:38:58,370 - INFO - [initial_state] Running body initial_body
+2025-05-08 14:38:58,370 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-05-08 14:38:58,371 - INFO - [awaiting_state] Running body process_intent
+2025-05-08 14:38:58,371 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:39:01,365 - INFO - Received message: hi
+2025-05-08 14:39:01,725 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 14:39:01,773 - INFO - Detected intent: fallback_intent
+2025-05-08 14:39:01,773 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 14:39:01,773 - INFO - [awaiting_state] Running body process_intent
+2025-05-08 14:39:01,773 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:39:05,230 - INFO - Received message: joke
+2025-05-08 14:39:05,460 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 14:39:05,461 - INFO - Detected intent: fallback_intent
+2025-05-08 14:39:05,461 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 14:39:05,462 - INFO - [awaiting_state] Running body process_intent
+2025-05-08 14:39:05,462 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:41:18,018 - INFO - Received message: hi
+2025-05-08 14:41:18,583 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 14:41:18,584 - INFO - Detected intent: fallback_intent
+2025-05-08 14:41:18,584 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 14:41:18,584 - INFO - [awaiting_state] Running body process_intent
+2025-05-08 14:41:18,584 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:41:24,497 - INFO - Stopping agent rag_agent
+2025-05-08 14:41:24,498 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:41:25,372 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:41:32,518 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:41:36,509 - INFO - rag_agent training started
+2025-05-08 14:41:36,509 - INFO - NER successfully trained.
+2025-05-08 14:41:36,509 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 14:41:36,509 - INFO - rag_agent training finished
+2025-05-08 14:41:36,510 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:41:36,528 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:43:37,146 - INFO - Stopping agent rag_agent
+2025-05-08 14:43:37,146 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:43:37,582 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:43:56,275 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:44:07,738 - INFO - rag_agent training started
+2025-05-08 14:44:07,738 - INFO - NER successfully trained.
+2025-05-08 14:44:07,738 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 14:44:07,738 - INFO - rag_agent training finished
+2025-05-08 14:44:07,739 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:44:07,753 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:44:11,078 - INFO - [initial_state] Running body initial_body
+2025-05-08 14:44:11,078 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-05-08 14:44:11,079 - INFO - [awaiting_state] Running body process_intent
+2025-05-08 14:44:11,079 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:44:14,533 - INFO - Received message: hi
+2025-05-08 14:44:15,349 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 14:44:15,406 - INFO - Detected intent: fallback_intent
+2025-05-08 14:44:15,406 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 14:44:15,406 - INFO - [awaiting_state] Running body process_intent
+2025-05-08 14:44:15,406 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:44:56,224 - INFO - Stopping agent rag_agent
+2025-05-08 14:44:56,225 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:44:56,768 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:45:03,824 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:45:06,681 - INFO - rag_agent training started
+2025-05-08 14:45:06,681 - INFO - NER successfully trained.
+2025-05-08 14:45:06,681 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 14:45:06,681 - INFO - rag_agent training finished
+2025-05-08 14:45:06,682 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:45:06,698 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:45:41,544 - INFO - Stopping agent rag_agent
+2025-05-08 14:45:41,545 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:45:41,706 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:45:58,587 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:46:01,898 - INFO - rag_agent training started
+2025-05-08 14:46:01,899 - INFO - NER successfully trained.
+2025-05-08 14:46:01,899 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 14:46:01,899 - INFO - rag_agent training finished
+2025-05-08 14:46:01,899 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:46:01,914 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:46:47,442 - INFO - Stopping agent rag_agent
+2025-05-08 14:46:47,442 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:46:47,929 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:46:58,048 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:47:01,583 - INFO - rag_agent training started
+2025-05-08 14:47:01,583 - INFO - NER successfully trained.
+2025-05-08 14:47:01,583 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 14:47:01,583 - INFO - rag_agent training finished
+2025-05-08 14:47:01,584 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:47:01,599 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:48:01,806 - INFO - Stopping agent rag_agent
+2025-05-08 14:48:01,807 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:48:02,620 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:48:10,232 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:48:13,318 - INFO - rag_agent training started
+2025-05-08 14:48:13,318 - INFO - NER successfully trained.
+2025-05-08 14:48:13,318 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 14:48:13,318 - INFO - rag_agent training finished
+2025-05-08 14:48:13,319 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:48:13,333 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:48:16,079 - INFO - [initial_state] Running body initial_body
+2025-05-08 14:48:16,079 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-05-08 14:48:16,080 - INFO - [awaiting_state] Running body process_intent
+2025-05-08 14:48:16,080 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:49:35,010 - INFO - Received message: hi
+2025-05-08 14:49:37,799 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 14:49:37,809 - INFO - Detected intent: fallback_intent
+2025-05-08 14:49:37,809 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 14:49:37,809 - INFO - [awaiting_state] Running body process_intent
+2025-05-08 14:49:37,809 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:50:05,695 - INFO - Stopping agent rag_agent
+2025-05-08 14:50:05,695 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:50:06,395 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:50:13,539 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:51:08,974 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:51:11,873 - INFO - rag_agent training started
+2025-05-08 14:51:11,873 - INFO - NER successfully trained.
+2025-05-08 14:51:11,873 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 14:51:11,873 - INFO - rag_agent training finished
+2025-05-08 14:51:11,874 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:51:11,889 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:52:17,408 - INFO - Stopping agent rag_agent
+2025-05-08 14:52:17,408 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:52:17,923 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:52:25,772 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:52:28,507 - INFO - rag_agent training started
+2025-05-08 14:52:28,507 - INFO - NER successfully trained.
+2025-05-08 14:52:28,507 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 14:52:28,507 - INFO - rag_agent training finished
+2025-05-08 14:52:28,508 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:52:28,522 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:52:31,405 - INFO - [initial_state] Running body initial_body
+2025-05-08 14:52:31,405 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-05-08 14:52:31,405 - INFO - [awaiting_state] Running body process_intent
+2025-05-08 14:52:31,405 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:52:34,964 - INFO - Received message: hi
+2025-05-08 14:52:37,257 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 14:52:37,269 - INFO - Detected intent: fallback_intent
+2025-05-08 14:52:37,269 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 14:52:37,269 - INFO - [awaiting_state] Running body process_intent
+2025-05-08 14:52:37,270 - ERROR - An error occurred while executing 'process_intent' of state 'awaiting_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 14:52:44,239 - INFO - Stopping agent rag_agent
+2025-05-08 14:52:44,240 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:52:44,520 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:53:25,740 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:53:28,120 - INFO - rag_agent training started
+2025-05-08 14:53:28,120 - INFO - NER successfully trained.
+2025-05-08 14:53:28,120 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 14:53:28,120 - INFO - rag_agent training finished
+2025-05-08 14:53:28,121 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:53:28,135 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:53:54,447 - INFO - Stopping agent rag_agent
+2025-05-08 14:53:54,448 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 14:53:55,140 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 14:54:02,083 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 14:54:04,808 - INFO - rag_agent training started
+2025-05-08 14:54:04,808 - INFO - NER successfully trained.
+2025-05-08 14:54:04,808 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 14:54:04,808 - INFO - rag_agent training finished
+2025-05-08 14:54:04,809 - INFO - Running Streamlit UI in another thread
+2025-05-08 14:54:04,825 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 14:54:07,084 - INFO - [initial_state] Running body initial_body
+2025-05-08 14:54:07,084 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-05-08 14:54:07,084 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 14:54:10,560 - INFO - Received message: hi
+2025-05-08 14:54:13,009 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 14:54:13,017 - INFO - Detected intent: fallback_intent
+2025-05-08 14:54:13,018 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 14:54:13,018 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 14:54:15,716 - INFO - Received message: tell me a joke
+2025-05-08 14:54:18,027 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 14:54:18,029 - INFO - Detected intent: fallback_intent
+2025-05-08 14:54:18,029 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 14:54:18,030 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 15:32:09,970 - INFO - Stopping agent rag_agent
+2025-05-08 15:32:09,975 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 15:32:10,471 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 16:24:47,817 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 16:25:09,399 - INFO - rag_agent training started
+2025-05-08 16:25:09,400 - INFO - NER successfully trained.
+2025-05-08 16:25:09,400 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 16:25:09,400 - INFO - rag_agent training finished
+2025-05-08 16:25:09,401 - INFO - Running Streamlit UI in another thread
+2025-05-08 16:25:09,416 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 16:25:14,478 - INFO - [initial_state] Running body initial_body
+2025-05-08 16:25:14,478 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-05-08 16:25:14,478 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 16:25:17,304 - INFO - Received message: hi
+2025-05-08 16:25:20,006 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 16:25:20,108 - INFO - Detected intent: fallback_intent
+2025-05-08 16:25:20,108 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 16:25:20,108 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 16:25:26,496 - INFO - Received message: do you know a joke?
+2025-05-08 16:25:29,056 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 16:25:29,058 - INFO - Detected intent: fallback_intent
+2025-05-08 16:25:29,058 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 16:25:29,058 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 16:26:59,608 - INFO - Stopping agent rag_agent
+2025-05-08 16:26:59,609 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 16:27:00,453 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 16:27:13,641 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 16:27:18,134 - INFO - rag_agent training started
+2025-05-08 16:27:18,134 - INFO - NER successfully trained.
+2025-05-08 16:27:18,134 - INFO - rag_agent training finished
+2025-05-08 16:27:18,135 - INFO - Running Streamlit UI in another thread
+2025-05-08 16:27:18,150 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 16:27:21,753 - INFO - [initial_state] Running body initial_body
+2025-05-08 16:27:21,754 - ERROR - An error occurred while executing 'initial_body' of state 'initial_state' in agent 'rag_agent'. See the attached exception:
+2025-05-08 17:01:58,983 - INFO - Stopping agent rag_agent
+2025-05-08 17:01:58,992 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 17:01:59,552 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 17:02:36,286 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 17:03:54,995 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 17:04:00,340 - INFO - rag_agent training started
+2025-05-08 17:04:00,340 - INFO - NER successfully trained.
+2025-05-08 17:04:00,340 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-08 17:04:00,340 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 17:04:00,341 - INFO - rag_agent training finished
+2025-05-08 17:04:00,342 - INFO - Running Streamlit UI in another thread
+2025-05-08 17:04:00,357 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 17:04:05,180 - INFO - [initial_state] Running body initial_body
+2025-05-08 17:04:36,568 - INFO - Received message: hi , plot
+2025-05-08 17:04:36,936 - ERROR - An error occurred while predicting the intent in state 'initial_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:04:37,018 - INFO - Detected intent: fallback_intent
+2025-05-08 17:04:37,018 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-08 17:05:34,504 - INFO - Received message: hi I want a plot
+2025-05-08 17:05:34,684 - ERROR - An error occurred while predicting the intent in state 'initial_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:05:34,685 - INFO - Detected intent: fallback_intent
+2025-05-08 17:05:34,686 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-08 17:05:38,039 - INFO - Received message: plot
+2025-05-08 17:05:38,221 - ERROR - An error occurred while predicting the intent in state 'initial_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:05:38,222 - INFO - Detected intent: fallback_intent
+2025-05-08 17:05:38,223 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-08 17:08:49,656 - INFO - Stopping agent rag_agent
+2025-05-08 17:08:49,658 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 17:08:50,530 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 17:09:01,846 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 17:09:56,076 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 17:09:59,668 - INFO - rag_agent training started
+2025-05-08 17:09:59,668 - INFO - NER successfully trained.
+2025-05-08 17:09:59,668 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-08 17:09:59,668 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 17:09:59,668 - INFO - rag_agent training finished
+2025-05-08 17:09:59,669 - INFO - Running Streamlit UI in another thread
+2025-05-08 17:09:59,683 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 17:10:03,111 - INFO - [initial_state] Running body initial_body
+2025-05-08 17:10:07,646 - INFO - Received message: hi, plot
+2025-05-08 17:10:07,647 - ERROR - An error occurred while predicting the intent in state 'initial_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:10:07,651 - INFO - Detected intent: fallback_intent
+2025-05-08 17:10:07,651 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-08 17:19:05,787 - INFO - Stopping agent rag_agent
+2025-05-08 17:19:05,790 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 17:19:06,045 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 17:19:37,841 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 17:20:27,770 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 17:20:31,534 - INFO - rag_agent training started
+2025-05-08 17:20:31,535 - INFO - NER successfully trained.
+2025-05-08 17:20:31,535 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-08 17:20:31,535 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 17:20:31,535 - INFO - rag_agent training finished
+2025-05-08 17:20:31,536 - INFO - Running Streamlit UI in another thread
+2025-05-08 17:20:31,551 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 17:20:35,862 - INFO - [initial_state] Running body initial_body
+2025-05-08 17:20:40,507 - INFO - Received message: hi
+2025-05-08 17:20:40,508 - ERROR - An error occurred while predicting the intent in state 'initial_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:20:40,519 - INFO - Detected intent: fallback_intent
+2025-05-08 17:20:40,519 - INFO - intent_matched (fallback_intent): [initial_state] --> [awaiting_state]
+2025-05-08 17:20:40,519 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 17:20:45,278 - INFO - Received message: I want plot
+2025-05-08 17:20:45,278 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:20:45,278 - INFO - Detected intent: fallback_intent
+2025-05-08 17:20:45,278 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 17:20:45,278 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 17:20:57,261 - INFO - Received message: histogram
+2025-05-08 17:20:57,261 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:20:57,261 - INFO - Detected intent: fallback_intent
+2025-05-08 17:20:57,261 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 17:20:57,261 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 17:24:42,012 - INFO - Received message: hi
+2025-05-08 17:24:42,014 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:24:42,014 - INFO - Detected intent: fallback_intent
+2025-05-08 17:24:42,015 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 17:24:42,015 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 17:24:44,060 - INFO - Received message: plot
+2025-05-08 17:24:44,060 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:24:44,061 - INFO - Detected intent: fallback_intent
+2025-05-08 17:24:44,061 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 17:24:44,061 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 17:24:46,604 - INFO - Received message: barplot
+2025-05-08 17:24:46,604 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:24:46,604 - INFO - Detected intent: fallback_intent
+2025-05-08 17:24:46,604 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 17:24:46,604 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 17:25:33,393 - INFO - Received message: hi
+2025-05-08 17:25:33,393 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:25:33,394 - INFO - Detected intent: fallback_intent
+2025-05-08 17:25:33,394 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 17:25:33,394 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 17:25:35,553 - INFO - Received message: plot
+2025-05-08 17:25:35,554 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:25:35,554 - INFO - Detected intent: fallback_intent
+2025-05-08 17:25:35,554 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 17:25:35,554 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 17:28:50,148 - INFO - Received message: hi
+2025-05-08 17:28:50,148 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:28:50,149 - INFO - Detected intent: fallback_intent
+2025-05-08 17:28:50,149 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 17:28:50,149 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 17:28:54,141 - INFO - Received message: plot
+2025-05-08 17:28:54,142 - ERROR - An error occurred while predicting the intent in state 'awaiting_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:28:54,142 - INFO - Detected intent: fallback_intent
+2025-05-08 17:28:54,142 - INFO - intent_matched (fallback_intent): [awaiting_state] --> [awaiting_state]
+2025-05-08 17:28:54,142 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-08 17:28:57,301 - INFO - Stopping agent rag_agent
+2025-05-08 17:28:57,302 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 17:28:57,795 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 17:29:33,596 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 17:29:49,317 - INFO - Stemmer added: english
+2025-05-08 17:31:04,448 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 17:31:07,864 - INFO - Stemmer added: english
+2025-05-08 17:31:40,146 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 17:31:43,511 - INFO - rag_agent training started
+2025-05-08 17:31:43,511 - INFO - NER successfully trained.
+2025-05-08 17:31:43,511 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-08 17:31:43,511 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-08 17:31:43,511 - INFO - rag_agent training finished
+2025-05-08 17:31:43,512 - INFO - Running Streamlit UI in another thread
+2025-05-08 17:31:43,512 - INFO - rag_agent's WebSocketPlatform starting at ws://localhost:8765
+2025-05-08 17:31:47,790 - INFO - [initial_state] Running body initial_body
+2025-05-08 17:31:50,451 - INFO - Received message: hi
+2025-05-08 17:31:50,451 - ERROR - An error occurred while predicting the intent in state 'initial_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:31:50,460 - INFO - Detected intent: fallback_intent
+2025-05-08 17:31:50,460 - INFO - intent_matched (fallback_intent): [initial_state] --> [initial_state]
+2025-05-08 17:31:50,460 - INFO - [initial_state] Running body initial_body
+2025-05-08 17:31:54,208 - INFO - Received message: plot
+2025-05-08 17:31:54,208 - ERROR - An error occurred while predicting the intent in state 'initial_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:31:54,208 - INFO - Detected intent: fallback_intent
+2025-05-08 17:31:54,209 - INFO - intent_matched (fallback_intent): [initial_state] --> [initial_state]
+2025-05-08 17:31:54,209 - INFO - [initial_state] Running body initial_body
+2025-05-08 17:31:57,931 - INFO - Received message: hi
+2025-05-08 17:31:57,931 - ERROR - An error occurred while predicting the intent in state 'initial_state' with LLM Intent Classifier 'gpt-4o-mini'. See the attached exception:
+2025-05-08 17:31:57,932 - INFO - Detected intent: fallback_intent
+2025-05-08 17:31:57,932 - INFO - intent_matched (fallback_intent): [initial_state] --> [initial_state]
+2025-05-08 17:31:57,932 - INFO - [initial_state] Running body initial_body
+2025-05-08 17:35:35,645 - INFO - Stopping agent rag_agent
+2025-05-08 17:35:35,647 - INFO - rag_agent's WebSocketPlatform stopped
+2025-05-08 17:35:35,653 - INFO - rag_agent execution finished due to KeyboardInterrupt
+2025-05-08 17:35:46,996 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 17:35:50,760 - INFO - Stemmer added: english
+2025-05-08 17:46:30,485 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 17:47:39,086 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 17:47:41,226 - INFO - telegram_agent training started
+2025-05-08 17:47:41,226 - INFO - NER successfully trained.
+2025-05-08 17:47:41,226 - INFO - telegram_agent training finished
+2025-05-08 17:47:53,251 - INFO - Stopping agent telegram_agent
+2025-05-08 17:48:11,336 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 17:48:13,466 - INFO - telegram_agent training started
+2025-05-08 17:48:13,466 - INFO - NER successfully trained.
+2025-05-08 17:48:13,466 - INFO - telegram_agent training finished
+2025-05-08 17:49:27,750 - INFO - Stopping agent telegram_agent
+2025-05-08 17:49:55,886 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-08 17:49:57,973 - INFO - telegram_agent training started
+2025-05-08 17:49:57,973 - INFO - NER successfully trained.
+2025-05-08 17:49:57,973 - INFO - telegram_agent training finished
+2025-05-08 18:01:49,168 - INFO - Stopping agent telegram_agent
+2025-05-11 10:53:04,735 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 10:53:11,014 - INFO - telegram_agent training started
+2025-05-11 10:53:11,014 - INFO - NER successfully trained.
+2025-05-11 10:53:11,014 - INFO - telegram_agent training finished
+2025-05-11 10:54:35,871 - INFO - Stopping agent telegram_agent
+2025-05-11 10:54:49,734 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 10:54:50,974 - INFO - telegram_agent training started
+2025-05-11 10:54:50,974 - INFO - NER successfully trained.
+2025-05-11 10:54:50,974 - INFO - telegram_agent training finished
+2025-05-11 10:56:55,849 - INFO - Stopping agent telegram_agent
+2025-05-11 10:57:15,890 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 10:57:38,078 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 10:57:39,503 - INFO - telegram_agent training started
+2025-05-11 10:57:39,503 - INFO - NER successfully trained.
+2025-05-11 10:57:39,503 - INFO - telegram_agent training finished
+2025-05-11 10:57:39,573 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-11 10:59:36,292 - INFO - [initial_state] Running body default_body
+2025-05-11 11:01:34,744 - INFO - Stopping agent telegram_agent
+2025-05-11 11:01:34,744 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-11 11:01:37,654 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-11 11:01:55,846 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:02:43,297 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:02:44,679 - INFO - Stemmer added: english
+2025-05-11 11:13:13,908 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:13:34,890 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:13:38,826 - INFO - telegram_agent training started
+2025-05-11 11:13:38,826 - INFO - NER successfully trained.
+2025-05-11 11:13:38,827 - INFO - telegram_agent training finished
+2025-05-11 11:13:39,098 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-11 11:13:50,361 - INFO - [initial_state] Running body default_body
+2025-05-11 11:16:24,451 - INFO - Stopping agent telegram_agent
+2025-05-11 11:16:24,451 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-11 11:16:31,971 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-11 11:16:39,243 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:17:58,792 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:19:44,909 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:20:30,336 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:20:31,669 - INFO - Stemmer added: english
+2025-05-11 11:22:55,045 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:24:17,367 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:40:21,402 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:40:36,743 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:40:38,133 - INFO - Stemmer added: english
+2025-05-11 11:43:45,235 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:43:47,181 - INFO - Stemmer added: english
+2025-05-11 11:47:19,051 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:47:20,253 - INFO - telegram_agent training started
+2025-05-11 11:47:20,253 - INFO - NER successfully trained.
+2025-05-11 11:47:20,254 - INFO - telegram_agent training finished
+2025-05-11 11:47:20,590 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-11 11:47:29,749 - INFO - [initial_state] Running body default_body
+2025-05-11 11:48:19,493 - INFO - Received message: help
+2025-05-11 11:48:19,494 - INFO - Detected intent: fallback_intent
+2025-05-11 11:48:19,494 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 11:48:23,802 - INFO - Received message: \help
+2025-05-11 11:48:23,802 - INFO - Detected intent: fallback_intent
+2025-05-11 11:48:23,802 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 11:48:40,259 - INFO - Received message: plot
+2025-05-11 11:48:40,259 - INFO - Detected intent: fallback_intent
+2025-05-11 11:48:40,259 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 11:48:44,141 - INFO - Received message: histogram
+2025-05-11 11:48:44,141 - INFO - Detected intent: fallback_intent
+2025-05-11 11:48:44,141 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 11:49:04,696 - INFO - Received message: histogram
+2025-05-11 11:49:04,696 - INFO - Detected intent: fallback_intent
+2025-05-11 11:49:04,696 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 11:57:17,623 - INFO - Received message: hi
+2025-05-11 11:57:17,623 - INFO - Detected intent: fallback_intent
+2025-05-11 11:57:17,623 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 11:57:21,504 - INFO - Received message: \start
+2025-05-11 11:57:21,504 - INFO - Detected intent: fallback_intent
+2025-05-11 11:57:21,504 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 11:57:24,843 - INFO - Stopping agent telegram_agent
+2025-05-11 11:57:24,844 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-11 11:57:37,320 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:57:54,310 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 11:57:55,489 - INFO - telegram_agent training started
+2025-05-11 11:57:55,489 - INFO - NER successfully trained.
+2025-05-11 11:57:55,489 - INFO - telegram_agent training finished
+2025-05-11 11:57:55,603 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-11 11:57:59,683 - INFO - [initial_state] Running body default_body
+2025-05-11 11:58:06,092 - INFO - Received message: hi
+2025-05-11 11:58:06,092 - INFO - Detected intent: fallback_intent
+2025-05-11 11:58:06,093 - INFO - [initial_state] Running fallback body global_fallback_body
+2025-05-11 11:58:20,479 - INFO - Received message: helllo
+2025-05-11 11:58:20,480 - INFO - Detected intent: fallback_intent
+2025-05-11 11:58:20,480 - INFO - [initial_state] Running fallback body global_fallback_body
+2025-05-11 11:58:22,834 - INFO - Received message: help
+2025-05-11 11:58:22,834 - INFO - Detected intent: fallback_intent
+2025-05-11 11:58:22,834 - INFO - [initial_state] Running fallback body global_fallback_body
+2025-05-11 11:59:15,195 - INFO - Stopping agent telegram_agent
+2025-05-11 11:59:15,195 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-11 11:59:23,545 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-11 11:59:40,262 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 12:00:20,720 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 12:00:21,911 - INFO - Stemmer added: english
+2025-05-11 16:20:48,243 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:20:54,480 - INFO - Stemmer added: english
+2025-05-11 16:21:39,908 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:21:46,623 - INFO - Stemmer added: english
+2025-05-11 16:22:02,754 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:22:04,126 - INFO - Stemmer added: english
+2025-05-11 16:22:15,629 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:22:16,914 - INFO - telegram_agent training started
+2025-05-11 16:22:16,914 - INFO - NER successfully trained.
+2025-05-11 16:22:16,914 - INFO - telegram_agent training finished
+2025-05-11 16:22:17,353 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-11 16:22:52,883 - INFO - [initial_state] Running body default_body
+2025-05-11 16:22:59,747 - INFO - Received message: hi
+2025-05-11 16:22:59,747 - INFO - Detected intent: fallback_intent
+2025-05-11 16:22:59,748 - INFO - [initial_state] Running fallback body global_fallback_body
+2025-05-11 16:23:04,035 - INFO - Received message: help
+2025-05-11 16:23:04,035 - INFO - Detected intent: fallback_intent
+2025-05-11 16:23:04,035 - INFO - [initial_state] Running fallback body global_fallback_body
+2025-05-11 16:23:07,155 - INFO - Received message: help
+2025-05-11 16:23:07,155 - INFO - Detected intent: fallback_intent
+2025-05-11 16:23:07,155 - INFO - [initial_state] Running fallback body global_fallback_body
+2025-05-11 16:24:09,499 - INFO - Stopping agent telegram_agent
+2025-05-11 16:24:09,499 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-11 16:24:18,001 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-11 16:25:10,688 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:25:11,887 - INFO - telegram_agent training started
+2025-05-11 16:25:11,887 - INFO - NER successfully trained.
+2025-05-11 16:25:11,887 - INFO - telegram_agent training finished
+2025-05-11 16:25:11,992 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-11 16:25:16,799 - INFO - [initial_state] Running body default_body
+2025-05-11 16:25:18,922 - INFO - Received message: hi
+2025-05-11 16:25:18,922 - INFO - Detected intent: fallback_intent
+2025-05-11 16:25:18,922 - INFO - [initial_state] Running fallback body global_fallback_body
+2025-05-11 16:25:21,500 - INFO - Received message: help
+2025-05-11 16:25:21,500 - INFO - Detected intent: fallback_intent
+2025-05-11 16:25:21,500 - INFO - [initial_state] Running fallback body global_fallback_body
+2025-05-11 16:25:39,757 - INFO - Stopping agent telegram_agent
+2025-05-11 16:25:39,757 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-11 16:25:41,906 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-11 16:25:51,176 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:25:52,363 - INFO - telegram_agent training started
+2025-05-11 16:25:52,363 - INFO - NER successfully trained.
+2025-05-11 16:25:52,363 - INFO - telegram_agent training finished
+2025-05-11 16:25:52,471 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-11 16:26:03,907 - INFO - [initial_state] Running body default_body
+2025-05-11 16:26:05,691 - INFO - Received message: hi
+2025-05-11 16:26:05,691 - INFO - Detected intent: fallback_intent
+2025-05-11 16:26:05,691 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 16:26:09,043 - INFO - Received message: help
+2025-05-11 16:26:09,043 - INFO - Detected intent: fallback_intent
+2025-05-11 16:26:09,043 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 16:26:11,431 - INFO - Received message: help
+2025-05-11 16:26:11,431 - INFO - Detected intent: fallback_intent
+2025-05-11 16:26:11,431 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 16:31:39,341 - INFO - Stopping agent telegram_agent
+2025-05-11 16:31:39,341 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-11 16:31:43,604 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-11 16:31:53,307 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:33:38,185 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:33:39,535 - INFO - Stemmer added: english
+2025-05-11 16:34:05,149 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:34:06,494 - INFO - telegram_agent training started
+2025-05-11 16:34:06,494 - INFO - NER successfully trained.
+2025-05-11 16:34:06,495 - INFO - telegram_agent training finished
+2025-05-11 16:34:06,559 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-11 16:34:12,751 - INFO - [initial_state] Running body initial_body
+2025-05-11 16:34:16,894 - INFO - Received message: plot
+2025-05-11 16:34:16,894 - INFO - Detected intent: fallback_intent
+2025-05-11 16:34:16,894 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 16:34:20,556 - INFO - Received message: help
+2025-05-11 16:34:20,556 - INFO - Detected intent: fallback_intent
+2025-05-11 16:34:20,556 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 16:38:08,613 - INFO - Stopping agent telegram_agent
+2025-05-11 16:38:08,613 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-11 16:38:12,694 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-11 16:38:27,679 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:38:29,006 - INFO - Stemmer added: english
+2025-05-11 16:43:57,474 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:43:58,857 - INFO - telegram_agent training started
+2025-05-11 16:43:58,857 - INFO - NER successfully trained.
+2025-05-11 16:43:58,857 - INFO - telegram_agent training finished
+2025-05-11 16:43:58,919 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-11 16:44:14,546 - INFO - [initial_state] Running body initial_body
+2025-05-11 16:44:17,986 - INFO - Received message: help
+2025-05-11 16:44:17,987 - INFO - Detected intent: fallback_intent
+2025-05-11 16:44:17,987 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 16:44:28,140 - INFO - Received message: \help
+2025-05-11 16:44:28,140 - INFO - Detected intent: fallback_intent
+2025-05-11 16:44:28,140 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 16:44:32,033 - INFO - Received message: plot
+2025-05-11 16:44:32,033 - INFO - Detected intent: fallback_intent
+2025-05-11 16:44:32,034 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 16:44:35,543 - INFO - Received message: histogram
+2025-05-11 16:44:35,544 - INFO - Detected intent: fallback_intent
+2025-05-11 16:44:35,544 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-11 16:44:48,368 - INFO - Stopping agent telegram_agent
+2025-05-11 16:44:48,369 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-11 16:44:55,909 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-11 16:45:04,476 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:45:05,712 - INFO - Stemmer added: english
+2025-05-11 16:45:22,280 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:45:23,528 - INFO - Stemmer added: english
+2025-05-11 16:46:37,128 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:46:38,862 - INFO - Stemmer added: english
+2025-05-11 16:48:34,830 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:48:38,082 - INFO - Stemmer added: english
+2025-05-11 16:49:01,475 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:49:04,521 - INFO - Stemmer added: english
+2025-05-11 16:49:26,929 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:49:29,195 - INFO - Stemmer added: english
+2025-05-11 16:51:53,083 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:51:58,789 - INFO - Stemmer added: english
+2025-05-11 16:52:48,099 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:52:49,406 - INFO - Stemmer added: english
+2025-05-11 16:53:26,874 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:53:28,750 - INFO - Stemmer added: english
+2025-05-11 16:56:26,210 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 16:56:28,099 - INFO - Stemmer added: english
+2025-05-11 17:19:49,779 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 17:19:55,803 - INFO - Stemmer added: english
+2025-05-11 19:49:09,592 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 19:49:18,692 - INFO - Stemmer added: english
+2025-05-11 19:49:30,276 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 19:49:32,061 - INFO - Stemmer added: english
+2025-05-11 19:49:58,052 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 19:50:00,076 - INFO - Stemmer added: english
+2025-05-11 19:50:11,245 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 19:50:13,610 - INFO - Stemmer added: english
+2025-05-11 19:56:12,798 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 19:56:14,989 - INFO - Stemmer added: english
+2025-05-11 19:58:18,951 - WARNING - keras dependencies in SimpleIntentClassifierTF could not be imported. You can install them from the requirements/requirements-tensorflow.txt file
+2025-05-11 19:58:25,476 - INFO - Stemmer added: english
+2025-05-11 20:11:34,109 - INFO - Stemmer added: english
+2025-05-12 18:48:55,149 - INFO - Stemmer added: english
+2025-05-12 18:58:19,712 - INFO - Stemmer added: english
+2025-05-12 18:58:49,914 - INFO - Stemmer added: english
+2025-05-12 18:59:08,800 - INFO - Stemmer added: english
+2025-05-12 18:59:34,116 - INFO - Stemmer added: english
+2025-05-12 18:59:53,078 - INFO - telegram_agent training started
+2025-05-12 18:59:53,079 - INFO - NER successfully trained.
+2025-05-12 18:59:53,079 - INFO - telegram_agent training finished
+2025-05-12 18:59:53,688 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-12 19:00:09,967 - INFO - [initial_state] Running body initial_body
+2025-05-12 19:00:10,164 - INFO - Received event: receive_message_text (hi)
+2025-05-12 19:00:13,764 - INFO - Received event: receive_message_text (plot)
+2025-05-12 19:00:25,057 - INFO - Received event: receive_message_text (can you plot?)
+2025-05-12 19:01:17,211 - INFO - Stopping agent telegram_agent
+2025-05-12 19:01:17,211 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-12 19:01:26,099 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-12 19:01:40,236 - INFO - Stemmer added: english
+2025-05-12 19:02:40,776 - INFO - Stemmer added: english
+2025-05-12 19:03:10,168 - INFO - Stemmer added: english
+2025-05-12 19:03:33,967 - INFO - Stemmer added: english
+2025-05-12 19:03:56,448 - INFO - Stemmer added: english
+2025-05-12 19:05:31,269 - INFO - Stemmer added: english
+2025-05-12 19:06:07,909 - INFO - Stemmer added: english
+2025-05-12 19:06:23,615 - INFO - telegram_agent training started
+2025-05-12 19:06:23,615 - INFO - NER successfully trained.
+2025-05-12 19:06:23,615 - INFO - telegram_agent training finished
+2025-05-12 19:06:24,100 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-12 19:06:28,816 - INFO - [s0] Running body s0_body
+2025-05-12 19:06:29,012 - INFO - Received event: receive_message_text (hi)
+2025-05-12 19:06:31,552 - INFO - Received event: receive_message_text (hi)
+2025-05-12 19:06:35,922 - INFO - Received event: receive_message_text (how are you?)
+2025-05-12 19:06:58,453 - INFO - Stopping agent telegram_agent
+2025-05-12 19:06:58,453 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-12 19:07:06,945 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-12 19:07:26,315 - INFO - Stemmer added: english
+2025-05-12 19:08:29,117 - INFO - Stemmer added: english
+2025-05-13 11:13:12,554 - INFO - Stemmer added: english
+2025-05-13 11:13:12,647 - INFO - telegram_agent training started
+2025-05-13 11:13:12,648 - INFO - NER successfully trained.
+2025-05-13 11:13:19,435 - INFO - Intent classifier in s0 successfully trained.
+2025-05-13 11:13:19,435 - INFO - telegram_agent training finished
+2025-05-13 11:13:20,186 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 11:14:35,347 - INFO - [s0] Running body s0_body
+2025-05-13 11:14:35,422 - INFO - Received event: receive_message_text (hi)
+2025-05-13 11:14:35,423 - INFO - Detected intent: hello_intent
+2025-05-13 11:14:35,423 - INFO - receive_message_text (Intent Matching - hello_intent): [s0] --> [hello_state]
+2025-05-13 11:14:35,423 - INFO - [hello_state] Running body hello_body
+2025-05-13 11:14:39,314 - INFO - Received event: receive_message_text (hello)
+2025-05-13 11:14:45,669 - INFO - Received event: receive_message_text (how are you?)
+2025-05-13 11:15:05,796 - INFO - Received event: receive_message_text (hi)
+2025-05-13 11:15:08,656 - INFO - Received event: receive_message_text (how r u)
+2025-05-13 11:15:12,378 - INFO - Stopping agent telegram_agent
+2025-05-13 11:15:12,378 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 11:15:18,801 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 11:16:54,273 - INFO - Stemmer added: english
+2025-05-13 11:16:54,300 - INFO - telegram_agent training started
+2025-05-13 11:16:54,300 - INFO - NER successfully trained.
+2025-05-13 11:16:56,639 - INFO - Intent classifier in s0 successfully trained.
+2025-05-13 11:16:57,505 - INFO - Intent classifier in hello_state successfully trained.
+2025-05-13 11:16:57,505 - INFO - telegram_agent training finished
+2025-05-13 11:16:57,757 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 11:17:03,753 - INFO - [s0] Running body s0_body
+2025-05-13 11:17:03,853 - INFO - Received event: receive_message_text (hi)
+2025-05-13 11:17:03,853 - INFO - Detected intent: hello_intent
+2025-05-13 11:17:03,853 - INFO - receive_message_text (Intent Matching - hello_intent): [s0] --> [hello_state]
+2025-05-13 11:17:03,854 - INFO - [hello_state] Running body hello_body
+2025-05-13 11:17:06,530 - INFO - Received event: receive_message_text (hello)
+2025-05-13 11:17:06,531 - INFO - Detected intent: fallback_intent
+2025-05-13 11:17:06,532 - INFO - [hello_state] Running fallback body hello_fallback_body
+2025-05-13 11:17:09,649 - INFO - Detected intent: fallback_intent
+2025-05-13 11:17:09,650 - INFO - Received event: receive_message_text (hi)
+2025-05-13 11:17:09,650 - INFO - [hello_state] Running fallback body hello_fallback_body
+2025-05-13 11:17:14,404 - INFO - Received event: receive_message_text (how are you?)
+2025-05-13 11:17:14,407 - INFO - Detected intent: bye_intent
+2025-05-13 11:17:14,407 - INFO - receive_message_text (Intent Matching - bye_intent): [hello_state] --> [bye_state]
+2025-05-13 11:17:14,407 - INFO - [bye_state] Running body bye_body
+2025-05-13 11:17:14,458 - INFO - auto: [bye_state] --> [s0]
+2025-05-13 11:17:14,459 - INFO - [s0] Running body s0_body
+2025-05-13 11:19:13,668 - INFO - Stopping agent telegram_agent
+2025-05-13 11:19:13,668 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 11:19:15,566 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 11:20:15,273 - INFO - Stemmer added: english
+2025-05-13 11:20:15,307 - INFO - telegram_agent training started
+2025-05-13 11:20:15,307 - INFO - NER successfully trained.
+2025-05-13 11:20:17,773 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 11:20:18,943 - INFO - Intent classifier in plotting_state successfully trained.
+2025-05-13 11:20:18,943 - INFO - telegram_agent training finished
+2025-05-13 11:20:19,238 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 11:21:41,975 - INFO - [initial_state] Running body initial_body
+2025-05-13 11:21:42,131 - INFO - auto: [initial_state] --> [awaiting_state]
+2025-05-13 11:21:42,131 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 11:21:42,131 - INFO - Received event: receive_message_text (hi)
+2025-05-13 11:21:49,373 - INFO - Received event: receive_message_text (I want a plot)
+2025-05-13 11:22:06,916 - INFO - Stopping agent telegram_agent
+2025-05-13 11:22:06,916 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 11:22:10,257 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 11:30:18,126 - INFO - Stemmer added: english
+2025-05-13 11:30:18,227 - INFO - telegram_agent training started
+2025-05-13 11:30:18,228 - INFO - NER successfully trained.
+2025-05-13 11:30:26,246 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 11:30:27,455 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 11:30:27,455 - INFO - telegram_agent training finished
+2025-05-13 11:30:28,145 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 11:30:32,465 - INFO - [initial_state] Running body initial_body
+2025-05-13 11:30:32,574 - INFO - Received event: receive_message_text (hi)
+2025-05-13 11:30:32,574 - INFO - Detected intent: fallback_intent
+2025-05-13 11:30:32,575 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 11:30:39,719 - INFO - Received event: receive_message_text (I want a plot)
+2025-05-13 11:30:39,721 - INFO - Detected intent: help_intent
+2025-05-13 11:30:39,721 - INFO - receive_message_text (Intent Matching - help_intent): [initial_state] --> [awaiting_state]
+2025-05-13 11:30:39,721 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 11:31:13,756 - INFO - Received event: receive_message_text (I want a histogram with x axis called lesson and y axis called hours)
+2025-05-13 11:31:13,757 - INFO - Detected intent: fallback_intent
+2025-05-13 11:31:13,757 - INFO - [awaiting_state] Running fallback body default_fallback_body
+2025-05-13 11:31:24,233 - INFO - Received event: receive_message_text (I want a histogram)
+2025-05-13 11:31:24,234 - INFO - Detected intent: fallback_intent
+2025-05-13 11:31:24,234 - INFO - [awaiting_state] Running fallback body default_fallback_body
+2025-05-13 11:31:29,158 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 11:31:29,158 - INFO - Detected intent: fallback_intent
+2025-05-13 11:31:29,159 - INFO - [awaiting_state] Running fallback body default_fallback_body
+2025-05-13 11:31:51,438 - INFO - Received event: receive_message_text (help)
+2025-05-13 11:31:51,439 - INFO - Detected intent: fallback_intent
+2025-05-13 11:31:51,439 - INFO - [awaiting_state] Running fallback body default_fallback_body
+2025-05-13 11:31:56,788 - INFO - Received event: receive_message_text (\help)
+2025-05-13 11:31:56,789 - INFO - Detected intent: fallback_intent
+2025-05-13 11:31:56,789 - INFO - [awaiting_state] Running fallback body default_fallback_body
+2025-05-13 11:32:22,117 - INFO - Received event: receive_message_text (graph)
+2025-05-13 11:32:22,118 - INFO - Detected intent: plot_intent
+2025-05-13 11:32:22,119 - INFO - receive_message_text (Intent Matching - plot_intent): [awaiting_state] --> [plotting_state]
+2025-05-13 11:32:22,119 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 11:32:22,119 - ERROR - An error occurred while executing 'plotting_body' of state 'plotting_state' in agent 'telegram_agent'. See the attached exception:
+2025-05-13 11:32:28,768 - INFO - Received event: receive_message_text (plot)
+2025-05-13 11:33:17,317 - INFO - Stopping agent telegram_agent
+2025-05-13 11:33:17,318 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 11:33:19,166 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 11:39:46,729 - INFO - Stemmer added: english
+2025-05-13 11:39:46,792 - INFO - telegram_agent training started
+2025-05-13 11:39:46,792 - INFO - NER successfully trained.
+2025-05-13 11:39:55,015 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 11:39:55,741 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 11:39:55,741 - INFO - telegram_agent training finished
+2025-05-13 11:39:56,368 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 11:40:15,440 - INFO - [initial_state] Running body initial_body
+2025-05-13 11:40:15,521 - INFO - Received event: receive_message_text (hi)
+2025-05-13 11:40:15,521 - INFO - Detected intent: fallback_intent
+2025-05-13 11:40:15,521 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 11:40:20,647 - INFO - Received event: receive_message_text (help)
+2025-05-13 11:40:20,647 - INFO - Detected intent: help_intent
+2025-05-13 11:40:20,648 - INFO - receive_message_text (Intent Matching - help_intent): [initial_state] --> [awaiting_state]
+2025-05-13 11:40:20,648 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 11:40:26,020 - INFO - Received event: receive_message_text (I wanta  graph)
+2025-05-13 11:40:26,022 - INFO - Detected intent: plot_intent
+2025-05-13 11:40:26,022 - INFO - receive_message_text (Intent Matching - plot_intent): [awaiting_state] --> [plotting_state]
+2025-05-13 11:40:26,022 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 11:40:26,022 - ERROR - An error occurred while executing 'plotting_body' of state 'plotting_state' in agent 'telegram_agent'. See the attached exception:
+2025-05-13 11:46:00,330 - INFO - Stopping agent telegram_agent
+2025-05-13 11:46:00,332 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 11:46:07,288 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 11:46:32,631 - INFO - Stemmer added: english
+2025-05-13 11:46:32,658 - INFO - telegram_agent training started
+2025-05-13 11:46:32,658 - INFO - NER successfully trained.
+2025-05-13 11:46:35,366 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 11:46:36,101 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 11:46:36,101 - INFO - telegram_agent training finished
+2025-05-13 11:46:36,308 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 11:49:30,912 - INFO - [initial_state] Running body initial_body
+2025-05-13 11:49:30,988 - INFO - Received event: receive_message_text (hi)
+2025-05-13 11:49:30,989 - INFO - Detected intent: fallback_intent
+2025-05-13 11:49:30,989 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 11:49:35,917 - INFO - Received event: receive_message_text (I wanta. graph)
+2025-05-13 11:49:35,919 - INFO - Detected intent: plot_intent
+2025-05-13 11:49:35,919 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 11:49:35,919 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 11:49:35,919 - ERROR - An error occurred while executing 'plotting_body' of state 'plotting_state' in agent 'telegram_agent'. See the attached exception:
+2025-05-13 11:50:35,651 - INFO - Stopping agent telegram_agent
+2025-05-13 11:50:35,652 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 11:50:36,969 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 11:51:01,851 - INFO - Stemmer added: english
+2025-05-13 11:51:01,878 - INFO - telegram_agent training started
+2025-05-13 11:51:01,878 - INFO - NER successfully trained.
+2025-05-13 11:51:04,570 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 11:51:05,286 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 11:51:05,286 - INFO - telegram_agent training finished
+2025-05-13 11:51:05,500 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 11:51:10,887 - INFO - [initial_state] Running body initial_body
+2025-05-13 11:51:11,025 - INFO - Received event: receive_message_text (graph)
+2025-05-13 11:51:11,025 - INFO - Detected intent: plot_intent
+2025-05-13 11:51:11,025 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 11:51:11,026 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 11:51:11,026 - ERROR - An error occurred while executing 'plotting_body' of state 'plotting_state' in agent 'telegram_agent'. See the attached exception:
+2025-05-13 11:53:31,950 - INFO - Stopping agent telegram_agent
+2025-05-13 11:53:31,951 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 11:53:32,142 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 11:54:41,839 - INFO - Stemmer added: english
+2025-05-13 11:54:41,930 - INFO - telegram_agent training started
+2025-05-13 11:54:41,930 - INFO - NER successfully trained.
+2025-05-13 11:54:47,942 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 11:54:48,734 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 11:54:48,735 - INFO - telegram_agent training finished
+2025-05-13 11:54:49,368 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 11:54:49,559 - INFO - [initial_state] Running body initial_body
+2025-05-13 11:54:49,617 - INFO - Received event: receive_message_text (graph)
+2025-05-13 11:54:49,617 - INFO - Detected intent: plot_intent
+2025-05-13 11:54:49,617 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 11:54:49,618 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 11:54:49,618 - ERROR - An error occurred while executing 'plotting_body' of state 'plotting_state' in agent 'telegram_agent'. See the attached exception:
+2025-05-13 11:54:56,605 - INFO - Stopping agent telegram_agent
+2025-05-13 11:54:56,605 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 11:54:59,645 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 11:55:24,128 - INFO - Stemmer added: english
+2025-05-13 11:55:24,152 - INFO - telegram_agent training started
+2025-05-13 11:55:24,152 - INFO - NER successfully trained.
+2025-05-13 11:55:26,730 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 11:55:27,458 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 11:55:27,458 - INFO - telegram_agent training finished
+2025-05-13 11:55:27,657 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 11:55:27,803 - INFO - [initial_state] Running body initial_body
+2025-05-13 11:55:27,849 - INFO - Received event: receive_message_text (graph)
+2025-05-13 11:55:27,850 - INFO - Detected intent: plot_intent
+2025-05-13 11:55:27,850 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 11:55:27,850 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 11:55:34,142 - INFO - Received event: receive_message_text (bar plot)
+2025-05-13 11:55:54,419 - INFO - Received event: receive_message_text (give me a graph plot)
+2025-05-13 11:55:58,705 - INFO - Received event: receive_message_text (plot)
+2025-05-13 11:56:54,034 - INFO - Stopping agent telegram_agent
+2025-05-13 11:56:54,034 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 11:56:58,956 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 11:57:36,082 - INFO - Stemmer added: english
+2025-05-13 11:57:36,111 - INFO - telegram_agent training started
+2025-05-13 11:57:36,111 - INFO - NER successfully trained.
+2025-05-13 11:57:38,896 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 11:57:39,576 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 11:57:39,576 - INFO - telegram_agent training finished
+2025-05-13 11:57:39,764 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 11:57:39,933 - INFO - [initial_state] Running body initial_body
+2025-05-13 11:57:40,164 - INFO - Detected intent: plot_intent
+2025-05-13 11:57:40,164 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 11:57:40,164 - INFO - Received event: receive_message_text (GRAPH)
+2025-05-13 11:57:40,165 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 11:57:47,394 - INFO - Received event: receive_message_text (bar plot)
+2025-05-13 11:58:17,541 - INFO - Stopping agent telegram_agent
+2025-05-13 11:58:17,541 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 11:58:28,319 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 13:48:20,680 - INFO - Stemmer added: english
+2025-05-13 13:48:20,735 - INFO - telegram_agent training started
+2025-05-13 13:48:20,735 - INFO - NER successfully trained.
+2025-05-13 13:48:25,095 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 13:48:26,076 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 13:48:26,077 - INFO - telegram_agent training finished
+2025-05-13 13:48:26,548 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 13:48:59,706 - INFO - [initial_state] Running body initial_body
+2025-05-13 13:48:59,802 - INFO - Received event: receive_message_text (hi)
+2025-05-13 13:48:59,802 - INFO - Detected intent: fallback_intent
+2025-05-13 13:48:59,803 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 13:49:09,102 - INFO - Received event: receive_message_text (I want a plot)
+2025-05-13 13:49:09,104 - INFO - Detected intent: plot_intent
+2025-05-13 13:49:09,104 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 13:49:09,104 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 13:49:15,763 - INFO - Received event: receive_message_text (I want a histogram)
+2025-05-13 13:50:40,572 - INFO - Stopping agent telegram_agent
+2025-05-13 13:50:40,573 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 13:50:46,259 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 13:51:07,115 - INFO - Stemmer added: english
+2025-05-13 13:51:07,138 - INFO - telegram_agent training started
+2025-05-13 13:51:07,138 - INFO - NER successfully trained.
+2025-05-13 13:51:09,401 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 13:51:10,133 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 13:51:10,133 - INFO - telegram_agent training finished
+2025-05-13 13:51:10,297 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 13:51:14,196 - INFO - [initial_state] Running body initial_body
+2025-05-13 13:51:14,238 - INFO - Received event: receive_message_text (hi)
+2025-05-13 13:51:14,238 - INFO - Detected intent: fallback_intent
+2025-05-13 13:51:14,239 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 13:51:20,089 - INFO - Received event: receive_message_text (I wan a histpgram)
+2025-05-13 13:51:20,090 - INFO - Detected intent: fallback_intent
+2025-05-13 13:51:20,090 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 13:51:23,406 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 13:51:23,407 - INFO - Detected intent: fallback_intent
+2025-05-13 13:51:23,407 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 13:51:31,977 - INFO - Received event: receive_message_text (I want a plot)
+2025-05-13 13:51:31,979 - INFO - Detected intent: plot_intent
+2025-05-13 13:51:31,979 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 13:51:31,979 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 13:51:58,332 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 13:53:25,315 - INFO - Stopping agent telegram_agent
+2025-05-13 13:53:25,316 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 13:53:29,277 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 13:54:33,800 - INFO - Stemmer added: english
+2025-05-13 13:54:33,848 - INFO - telegram_agent training started
+2025-05-13 13:54:33,848 - INFO - NER successfully trained.
+2025-05-13 13:54:40,394 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 13:54:41,095 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 13:54:41,095 - INFO - telegram_agent training finished
+2025-05-13 13:54:41,530 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 13:55:10,695 - INFO - [initial_state] Running body initial_body
+2025-05-13 13:55:10,858 - INFO - Received event: receive_message_text (hi)
+2025-05-13 13:55:10,859 - INFO - Detected intent: fallback_intent
+2025-05-13 13:55:10,859 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 13:55:17,931 - INFO - Received event: receive_message_text (I want a plot)
+2025-05-13 13:55:17,933 - INFO - Detected intent: plot_intent
+2025-05-13 13:55:17,933 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 13:55:17,933 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 13:55:22,078 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 13:55:41,286 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 13:59:18,795 - INFO - Stopping agent telegram_agent
+2025-05-13 13:59:18,795 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 13:59:23,193 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 14:01:24,502 - INFO - Stemmer added: english
+2025-05-13 14:01:24,570 - INFO - telegram_agent training started
+2025-05-13 14:01:24,570 - INFO - NER successfully trained.
+2025-05-13 14:01:27,827 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 14:01:29,003 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 14:01:29,004 - INFO - telegram_agent training finished
+2025-05-13 14:01:29,237 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 14:01:58,177 - INFO - [initial_state] Running body initial_body
+2025-05-13 14:01:58,396 - INFO - Received event: receive_message_text (hi)
+2025-05-13 14:01:58,397 - INFO - Detected intent: fallback_intent
+2025-05-13 14:01:58,397 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 14:02:17,335 - INFO - Received event: receive_message_text (i wanta plot)
+2025-05-13 14:02:17,339 - INFO - Detected intent: help_intent
+2025-05-13 14:02:17,339 - INFO - receive_message_text (Intent Matching - help_intent): [initial_state] --> [awaiting_state]
+2025-05-13 14:02:17,340 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 14:02:25,502 - INFO - Received event: receive_message_text (I wanta. histogram)
+2025-05-13 14:02:25,503 - INFO - Detected intent: plot_type_intent
+2025-05-13 14:02:25,503 - INFO - receive_message_text (Intent Matching - plot_type_intent): [awaiting_state] --> [plotting_type_state]
+2025-05-13 14:02:25,504 - INFO - [plotting_type_state] Running body plotting_body
+2025-05-13 14:03:00,597 - INFO - Received event: receive_message_text (hi)
+2025-05-13 14:04:30,357 - INFO - Stopping agent telegram_agent
+2025-05-13 14:04:30,357 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 14:04:31,663 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 14:05:36,569 - INFO - Stemmer added: english
+2025-05-13 14:05:36,641 - INFO - telegram_agent training started
+2025-05-13 14:05:36,641 - INFO - NER successfully trained.
+2025-05-13 14:05:40,023 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 14:05:41,096 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 14:05:41,096 - INFO - telegram_agent training finished
+2025-05-13 14:05:41,317 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 14:05:53,298 - INFO - [initial_state] Running body initial_body
+2025-05-13 14:05:53,583 - INFO - Received event: receive_message_text (hi)
+2025-05-13 14:05:53,583 - INFO - Detected intent: fallback_intent
+2025-05-13 14:05:53,584 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 14:05:57,216 - INFO - Received event: receive_message_text (I want a plot)
+2025-05-13 14:05:57,221 - INFO - Detected intent: plot_intent
+2025-05-13 14:05:57,221 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 14:05:57,221 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 14:06:28,381 - INFO - Received event: receive_message_text (I want a bar plot)
+2025-05-13 14:06:28,381 - INFO - Detected intent: fallback_intent
+2025-05-13 14:06:28,381 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [awaiting_state]
+2025-05-13 14:06:28,381 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 14:06:43,442 - INFO - Received event: receive_message_text (I want a bar plot)
+2025-05-13 14:06:43,443 - INFO - Detected intent: plot_intent
+2025-05-13 14:06:43,443 - INFO - receive_message_text (Intent Matching - plot_intent): [awaiting_state] --> [plotting_state]
+2025-05-13 14:06:43,443 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 14:06:48,212 - INFO - Received event: receive_message_text (hi)
+2025-05-13 14:06:48,212 - INFO - Detected intent: fallback_intent
+2025-05-13 14:06:48,213 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [awaiting_state]
+2025-05-13 14:06:48,213 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 14:06:53,118 - INFO - Received event: receive_message_text (I want a histogram)
+2025-05-13 14:06:53,119 - INFO - Detected intent: plot_intent
+2025-05-13 14:06:53,119 - INFO - receive_message_text (Intent Matching - plot_intent): [awaiting_state] --> [plotting_state]
+2025-05-13 14:06:53,119 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 14:08:26,660 - INFO - Stopping agent telegram_agent
+2025-05-13 14:08:26,662 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 14:08:33,664 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 14:14:05,272 - INFO - Stemmer added: english
+2025-05-13 14:14:05,353 - INFO - telegram_agent training started
+2025-05-13 14:14:05,353 - INFO - NER successfully trained.
+2025-05-13 14:14:13,014 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 14:14:14,327 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 14:14:14,328 - INFO - telegram_agent training finished
+2025-05-13 14:14:14,928 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 14:14:24,599 - INFO - [initial_state] Running body initial_body
+2025-05-13 14:14:24,724 - INFO - Received event: receive_message_text (hi)
+2025-05-13 14:14:24,725 - INFO - Detected intent: fallback_intent
+2025-05-13 14:14:24,725 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 14:14:29,350 - INFO - Received event: receive_message_text (i want a plot)
+2025-05-13 14:14:29,354 - INFO - Detected intent: plot_intent
+2025-05-13 14:14:29,354 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 14:14:29,354 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 14:14:29,354 - ERROR - An error occurred while executing 'plotting_body' of state 'plotting_state' in agent 'telegram_agent'. See the attached exception:
+2025-05-13 14:14:59,400 - INFO - Stopping agent telegram_agent
+2025-05-13 14:14:59,401 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 14:15:00,408 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 14:15:26,956 - INFO - Stemmer added: english
+2025-05-13 14:15:26,984 - INFO - telegram_agent training started
+2025-05-13 14:15:26,984 - INFO - NER successfully trained.
+2025-05-13 14:15:30,140 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 14:15:31,185 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 14:15:31,186 - INFO - telegram_agent training finished
+2025-05-13 14:15:31,396 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 14:15:37,555 - INFO - [initial_state] Running body initial_body
+2025-05-13 14:15:37,647 - INFO - Received event: receive_message_text (plot)
+2025-05-13 14:15:37,647 - INFO - Detected intent: plot_intent
+2025-05-13 14:15:37,647 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 14:15:37,647 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 14:15:37,648 - ERROR - An error occurred while executing 'plotting_body' of state 'plotting_state' in agent 'telegram_agent'. See the attached exception:
+2025-05-13 14:15:40,597 - INFO - Received event: receive_message_text (plot)
+2025-05-13 14:15:40,598 - INFO - Detected intent: fallback_intent
+2025-05-13 14:15:40,598 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [awaiting_state]
+2025-05-13 14:15:40,598 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 14:15:45,489 - INFO - Received event: receive_message_text (bar chart)
+2025-05-13 14:15:45,490 - INFO - Detected intent: plot_type_intent
+2025-05-13 14:15:45,490 - INFO - receive_message_text (Intent Matching - plot_type_intent): [awaiting_state] --> [plotting_type_state]
+2025-05-13 14:15:45,491 - INFO - [plotting_type_state] Running body plotting_body
+2025-05-13 14:20:54,515 - INFO - Stopping agent telegram_agent
+2025-05-13 14:20:54,516 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 14:20:57,754 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 14:21:27,429 - INFO - Stemmer added: english
+2025-05-13 14:21:27,468 - INFO - telegram_agent training started
+2025-05-13 14:21:27,468 - INFO - NER successfully trained.
+2025-05-13 14:21:30,717 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 14:21:31,771 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 14:21:31,771 - INFO - telegram_agent training finished
+2025-05-13 14:21:31,978 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 14:21:36,767 - INFO - [initial_state] Running body initial_body
+2025-05-13 14:21:36,966 - INFO - Received event: receive_message_text (hi)
+2025-05-13 14:21:36,967 - INFO - Detected intent: fallback_intent
+2025-05-13 14:21:36,967 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 14:21:39,977 - INFO - Received event: receive_message_text (plot)
+2025-05-13 14:21:39,977 - INFO - Detected intent: plot_intent
+2025-05-13 14:21:39,978 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 14:21:39,978 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 14:21:39,978 - ERROR - An error occurred while executing 'plotting_body' of state 'plotting_state' in agent 'telegram_agent'. See the attached exception:
+2025-05-13 14:22:33,972 - INFO - Stopping agent telegram_agent
+2025-05-13 14:22:33,973 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 14:22:41,031 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 14:24:05,373 - INFO - Stemmer added: english
+2025-05-13 14:24:05,439 - INFO - telegram_agent training started
+2025-05-13 14:24:05,439 - INFO - NER successfully trained.
+2025-05-13 14:24:13,619 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 14:24:15,043 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 14:24:15,044 - INFO - telegram_agent training finished
+2025-05-13 14:24:15,627 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 14:24:15,764 - INFO - [initial_state] Running body initial_body
+2025-05-13 14:24:15,811 - INFO - Received event: receive_message_text (hi)
+2025-05-13 14:24:15,812 - INFO - Detected intent: fallback_intent
+2025-05-13 14:24:15,812 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 14:24:17,981 - INFO - Received event: receive_message_text (plot)
+2025-05-13 14:24:17,982 - INFO - Detected intent: plot_intent
+2025-05-13 14:24:17,982 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 14:24:17,982 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 14:24:25,374 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 14:24:25,374 - INFO - Detected intent: fallback_intent
+2025-05-13 14:24:25,374 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [awaiting_state]
+2025-05-13 14:24:25,374 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 14:24:30,766 - INFO - Received event: receive_message_text (I want histogram)
+2025-05-13 14:24:30,768 - INFO - Detected intent: plot_type_intent
+2025-05-13 14:24:30,768 - INFO - receive_message_text (Intent Matching - plot_type_intent): [awaiting_state] --> [plotting_type_state]
+2025-05-13 14:24:30,768 - INFO - [plotting_type_state] Running body plotting_body
+2025-05-13 14:28:58,846 - INFO - Stopping agent telegram_agent
+2025-05-13 14:28:58,848 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 14:29:05,317 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 14:29:34,420 - INFO - Stemmer added: english
+2025-05-13 14:29:34,455 - INFO - telegram_agent training started
+2025-05-13 14:29:34,456 - INFO - NER successfully trained.
+2025-05-13 14:29:37,908 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 14:29:39,156 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 14:29:39,156 - INFO - telegram_agent training finished
+2025-05-13 14:29:39,376 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 14:29:50,576 - INFO - [initial_state] Running body initial_body
+2025-05-13 14:29:50,668 - INFO - Received event: receive_message_text (hi)
+2025-05-13 14:29:50,671 - INFO - Detected intent: fallback_intent
+2025-05-13 14:29:50,672 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 14:29:55,158 - INFO - Received event: receive_message_text (I want a plot)
+2025-05-13 14:29:55,165 - INFO - Detected intent: plot_intent
+2025-05-13 14:29:55,166 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 14:29:55,166 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 14:30:07,760 - INFO - Received event: receive_message_text (I want a histogram with glasses vs age)
+2025-05-13 14:30:07,760 - INFO - Detected intent: fallback_intent
+2025-05-13 14:30:07,760 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [awaiting_state]
+2025-05-13 14:30:07,761 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 14:30:16,015 - INFO - Received event: receive_message_text (I want a histogram with glasses vs age)
+2025-05-13 14:30:16,017 - INFO - Detected intent: plot_intent
+2025-05-13 14:30:16,017 - INFO - receive_message_text (Intent Matching - plot_intent): [awaiting_state] --> [plotting_state]
+2025-05-13 14:30:16,017 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 14:30:51,348 - INFO - Received event: receive_message_text (I want a histogram with glasses by age)
+2025-05-13 14:30:51,348 - INFO - Detected intent: fallback_intent
+2025-05-13 14:30:51,349 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [awaiting_state]
+2025-05-13 14:30:51,349 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 14:30:56,753 - INFO - Received event: receive_message_text (I want a histogram with glasses by age)
+2025-05-13 14:30:56,756 - INFO - Detected intent: plot_intent
+2025-05-13 14:30:56,756 - INFO - receive_message_text (Intent Matching - plot_intent): [awaiting_state] --> [plotting_state]
+2025-05-13 14:30:56,756 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 14:33:31,796 - INFO - Stopping agent telegram_agent
+2025-05-13 14:33:31,798 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 14:33:39,120 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 14:34:35,325 - INFO - Stemmer added: english
+2025-05-13 14:34:35,390 - INFO - telegram_agent training started
+2025-05-13 14:34:35,391 - INFO - NER successfully trained.
+2025-05-13 14:34:39,024 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 14:34:40,094 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 14:34:40,094 - INFO - telegram_agent training finished
+2025-05-13 14:34:40,309 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 14:35:21,936 - INFO - [initial_state] Running body initial_body
+2025-05-13 14:35:22,049 - INFO - Received event: receive_message_text (hi)
+2025-05-13 14:35:22,050 - INFO - Detected intent: fallback_intent
+2025-05-13 14:35:22,050 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 14:35:24,188 - INFO - Received event: receive_message_text (plot)
+2025-05-13 14:35:24,188 - INFO - Detected intent: plot_intent
+2025-05-13 14:35:24,188 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 14:35:24,188 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 14:35:27,899 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 14:35:27,899 - INFO - Detected intent: fallback_intent
+2025-05-13 14:35:27,899 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [awaiting_state]
+2025-05-13 14:35:27,900 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 14:35:32,357 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 14:35:32,358 - INFO - Detected intent: plot_type_intent
+2025-05-13 14:35:32,358 - INFO - receive_message_text (Intent Matching - plot_type_intent): [awaiting_state] --> [plotting_type_state]
+2025-05-13 14:35:32,358 - INFO - [plotting_type_state] Running body plotting_body
+2025-05-13 14:35:41,449 - INFO - Received event: receive_message_text (x axis - glasses, y axis - age)
+2025-05-13 14:35:41,449 - INFO - Detected intent: fallback_intent
+2025-05-13 14:35:41,449 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_type_state] --> [awaiting_state]
+2025-05-13 14:35:41,450 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 14:35:57,785 - INFO - Received event: receive_message_text (I want histogram glasses by age)
+2025-05-13 14:35:57,792 - INFO - Detected intent: plot_type_intent
+2025-05-13 14:35:57,792 - INFO - receive_message_text (Intent Matching - plot_type_intent): [awaiting_state] --> [plotting_type_state]
+2025-05-13 14:35:57,792 - INFO - [plotting_type_state] Running body plotting_body
+2025-05-13 14:35:57,802 - ERROR - An error occurred while executing 'plotting_body' of state 'plotting_type_state' in agent 'telegram_agent'. See the attached exception:
+2025-05-13 14:36:53,942 - INFO - Stopping agent telegram_agent
+2025-05-13 14:36:53,944 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 14:36:58,471 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 14:38:33,959 - INFO - Stemmer added: english
+2025-05-13 14:38:34,040 - INFO - telegram_agent training started
+2025-05-13 14:38:34,040 - INFO - NER successfully trained.
+2025-05-13 14:38:42,091 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 14:38:43,172 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 14:38:43,172 - INFO - telegram_agent training finished
+2025-05-13 14:38:43,797 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 14:40:30,088 - INFO - [initial_state] Running body initial_body
+2025-05-13 14:40:30,200 - INFO - Received event: receive_message_text (hi)
+2025-05-13 14:40:30,201 - INFO - Detected intent: fallback_intent
+2025-05-13 14:40:30,201 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 14:40:36,464 - INFO - Received event: receive_message_text (plot)
+2025-05-13 14:40:36,464 - INFO - Detected intent: plot_intent
+2025-05-13 14:40:36,466 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 14:40:36,466 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 14:40:39,857 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 14:40:39,857 - INFO - Detected intent: fallback_intent
+2025-05-13 14:40:39,857 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [awaiting_state]
+2025-05-13 14:40:39,858 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 14:40:44,320 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 14:40:44,320 - INFO - Detected intent: plot_type_intent
+2025-05-13 14:40:44,321 - INFO - receive_message_text (Intent Matching - plot_type_intent): [awaiting_state] --> [plotting_type_state]
+2025-05-13 14:40:44,321 - INFO - [plotting_type_state] Running body plotting_body
+2025-05-13 14:40:49,213 - INFO - Received event: receive_message_text (gallse, age)
+2025-05-13 14:40:49,214 - INFO - Detected intent: fallback_intent
+2025-05-13 14:40:49,214 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_type_state] --> [awaiting_state]
+2025-05-13 14:40:49,214 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 14:40:53,747 - INFO - Received event: receive_message_text (glasses by age)
+2025-05-13 14:40:53,747 - INFO - Detected intent: fallback_intent
+2025-05-13 14:40:53,748 - INFO - [awaiting_state] Running fallback body default_fallback_body
+2025-05-13 14:41:00,441 - INFO - Received event: receive_message_text (hist9ogram glasses by age)
+2025-05-13 14:41:00,441 - INFO - Detected intent: fallback_intent
+2025-05-13 14:41:00,442 - INFO - [awaiting_state] Running fallback body default_fallback_body
+2025-05-13 14:41:10,409 - INFO - Received event: receive_message_text (histogram glasses by age)
+2025-05-13 14:41:10,412 - INFO - Detected intent: plot_type_intent
+2025-05-13 14:41:10,412 - INFO - receive_message_text (Intent Matching - plot_type_intent): [awaiting_state] --> [plotting_type_state]
+2025-05-13 14:41:10,412 - INFO - [plotting_type_state] Running body plotting_body
+2025-05-13 14:42:13,285 - INFO - Received event: receive_message_text (bar plot)
+2025-05-13 14:42:13,285 - INFO - Detected intent: fallback_intent
+2025-05-13 14:42:13,287 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_type_state] --> [awaiting_state]
+2025-05-13 14:42:13,287 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 14:42:16,495 - INFO - Received event: receive_message_text (bar plot)
+2025-05-13 14:42:16,495 - INFO - Detected intent: plot_type_intent
+2025-05-13 14:42:16,496 - INFO - receive_message_text (Intent Matching - plot_type_intent): [awaiting_state] --> [plotting_type_state]
+2025-05-13 14:42:16,496 - INFO - [plotting_type_state] Running body plotting_body
+2025-05-13 14:42:46,181 - INFO - Received event: receive_message_text (x= glas y = age)
+2025-05-13 14:42:46,181 - INFO - Detected intent: fallback_intent
+2025-05-13 14:42:46,183 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_type_state] --> [awaiting_state]
+2025-05-13 14:42:46,183 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 14:42:57,385 - INFO - Received event: receive_message_text (x= glas y = age)
+2025-05-13 14:42:57,385 - INFO - Detected intent: fallback_intent
+2025-05-13 14:42:57,386 - INFO - [awaiting_state] Running fallback body default_fallback_body
+2025-05-13 14:43:02,195 - INFO - Received event: receive_message_text (x= glas y = age)
+2025-05-13 14:43:02,196 - INFO - Detected intent: fallback_intent
+2025-05-13 14:43:02,196 - INFO - [awaiting_state] Running fallback body default_fallback_body
+2025-05-13 14:43:05,706 - INFO - Received event: receive_message_text (bar plot x= glas y = age)
+2025-05-13 14:43:05,708 - INFO - Detected intent: plot_type_intent
+2025-05-13 14:43:05,708 - INFO - receive_message_text (Intent Matching - plot_type_intent): [awaiting_state] --> [plotting_type_state]
+2025-05-13 14:43:05,708 - INFO - [plotting_type_state] Running body plotting_body
+2025-05-13 14:43:40,157 - INFO - Stopping agent telegram_agent
+2025-05-13 14:43:40,158 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 14:43:45,854 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 15:04:16,818 - INFO - Stemmer added: english
+2025-05-13 15:04:16,893 - INFO - telegram_agent training started
+2025-05-13 15:04:16,893 - INFO - NER successfully trained.
+2025-05-13 15:04:21,505 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 15:04:22,746 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 15:04:23,428 - INFO - Intent classifier in plotting_state successfully trained.
+2025-05-13 15:04:24,124 - INFO - Intent classifier in plotting_type_state successfully trained.
+2025-05-13 15:04:24,124 - INFO - telegram_agent training finished
+2025-05-13 15:04:24,511 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 15:04:28,199 - INFO - [initial_state] Running body initial_body
+2025-05-13 15:04:28,242 - INFO - Received event: receive_message_text (hi)
+2025-05-13 15:04:28,243 - INFO - Detected intent: fallback_intent
+2025-05-13 15:04:28,243 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 15:04:31,298 - INFO - Received event: receive_message_text (I want plot)
+2025-05-13 15:04:31,301 - INFO - Detected intent: plot_intent
+2025-05-13 15:04:31,302 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 15:04:31,302 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:04:35,220 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 15:04:35,221 - INFO - Detected intent: fallback_intent
+2025-05-13 15:04:35,221 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [awaiting_state]
+2025-05-13 15:04:35,221 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 15:04:44,301 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 15:04:44,301 - INFO - Detected intent: plot_type_intent
+2025-05-13 15:04:44,302 - INFO - receive_message_text (Intent Matching - plot_type_intent): [awaiting_state] --> [plotting_type_state]
+2025-05-13 15:04:44,302 - INFO - [plotting_type_state] Running body plotting_body
+2025-05-13 15:04:51,077 - INFO - Received event: receive_message_text (x=abg y = you)
+2025-05-13 15:04:51,078 - INFO - Detected intent: fallback_intent
+2025-05-13 15:04:51,078 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_type_state] --> [awaiting_state]
+2025-05-13 15:04:51,078 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 15:05:47,575 - INFO - Received event: receive_message_text (give me histogram)
+2025-05-13 15:05:47,576 - INFO - Detected intent: plot_type_intent
+2025-05-13 15:05:47,576 - INFO - receive_message_text (Intent Matching - plot_type_intent): [awaiting_state] --> [plotting_type_state]
+2025-05-13 15:05:47,576 - INFO - [plotting_type_state] Running body plotting_body
+2025-05-13 15:05:52,613 - INFO - Received event: receive_message_text (x=abg y = you)
+2025-05-13 15:05:52,613 - INFO - Detected intent: fallback_intent
+2025-05-13 15:05:52,614 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_type_state] --> [awaiting_state]
+2025-05-13 15:05:52,614 - INFO - [awaiting_state] Running body awaiting_body
+2025-05-13 15:06:43,360 - INFO - Stopping agent telegram_agent
+2025-05-13 15:06:43,360 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 15:06:53,156 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 15:11:11,468 - INFO - Stemmer added: english
+2025-05-13 15:11:11,610 - INFO - telegram_agent training started
+2025-05-13 15:11:11,610 - INFO - NER successfully trained.
+2025-05-13 15:11:19,222 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 15:11:20,363 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 15:11:21,067 - INFO - Intent classifier in plotting_state successfully trained.
+2025-05-13 15:11:21,785 - INFO - Intent classifier in plotting_type_state successfully trained.
+2025-05-13 15:11:21,785 - INFO - telegram_agent training finished
+2025-05-13 15:11:22,450 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 15:12:20,500 - INFO - [initial_state] Running body initial_body
+2025-05-13 15:12:20,596 - INFO - Received event: receive_message_text (hi)
+2025-05-13 15:12:20,596 - INFO - Detected intent: fallback_intent
+2025-05-13 15:12:20,597 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 15:12:25,550 - INFO - Received event: receive_message_text (i want histogram)
+2025-05-13 15:12:25,553 - INFO - Detected intent: plot_type_intent
+2025-05-13 15:12:25,553 - INFO - receive_message_text (Intent Matching - plot_type_intent): [initial_state] --> [plotting_type_state]
+2025-05-13 15:12:25,554 - INFO - [plotting_type_state] Running body plotting_body
+2025-05-13 15:12:32,326 - INFO - Received event: receive_message_text (x= ang y = kjoi)
+2025-05-13 15:12:32,326 - INFO - Detected intent: fallback_intent
+2025-05-13 15:12:32,327 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_type_state] --> [plotting_state]
+2025-05-13 15:12:32,327 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:12:32,328 - ERROR - An error occurred while executing 'plotting_body' of state 'plotting_state' in agent 'telegram_agent'. See the attached exception:
+2025-05-13 15:12:48,413 - INFO - Stopping agent telegram_agent
+2025-05-13 15:12:48,414 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 15:12:52,685 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 15:15:38,934 - INFO - Stemmer added: english
+2025-05-13 15:15:39,009 - INFO - telegram_agent training started
+2025-05-13 15:15:39,009 - INFO - NER successfully trained.
+2025-05-13 15:15:42,353 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 15:15:43,424 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 15:15:44,149 - INFO - Intent classifier in plotting_state successfully trained.
+2025-05-13 15:15:44,838 - INFO - Intent classifier in plotting_type_state successfully trained.
+2025-05-13 15:15:44,838 - INFO - telegram_agent training finished
+2025-05-13 15:15:45,050 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 15:16:38,159 - INFO - [initial_state] Running body initial_body
+2025-05-13 15:16:38,256 - INFO - Received event: receive_message_text (hi)
+2025-05-13 15:16:38,257 - INFO - Detected intent: fallback_intent
+2025-05-13 15:16:38,257 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 15:16:41,804 - INFO - Received event: receive_message_text (i want plot)
+2025-05-13 15:16:41,807 - INFO - Detected intent: plot_intent
+2025-05-13 15:16:41,808 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 15:16:41,808 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:16:47,220 - INFO - Received event: receive_message_text (I want hostogram)
+2025-05-13 15:16:47,221 - INFO - Detected intent: fallback_intent
+2025-05-13 15:16:47,221 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [plotting_state]
+2025-05-13 15:16:47,221 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:16:50,329 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 15:16:50,329 - INFO - Detected intent: fallback_intent
+2025-05-13 15:16:50,330 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [plotting_state]
+2025-05-13 15:16:50,330 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:16:56,444 - INFO - Received event: receive_message_text (x=a y = bh)
+2025-05-13 15:16:56,444 - INFO - Detected intent: fallback_intent
+2025-05-13 15:16:56,445 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [plotting_state]
+2025-05-13 15:16:56,445 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:16:56,445 - ERROR - An error occurred while executing 'plotting_body' of state 'plotting_state' in agent 'telegram_agent'. See the attached exception:
+2025-05-13 15:17:11,128 - INFO - Stopping agent telegram_agent
+2025-05-13 15:17:11,128 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 15:17:16,910 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 15:17:49,037 - INFO - Stemmer added: english
+2025-05-13 15:17:49,089 - INFO - telegram_agent training started
+2025-05-13 15:17:49,089 - INFO - NER successfully trained.
+2025-05-13 15:17:52,527 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 15:17:53,606 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 15:17:54,318 - INFO - Intent classifier in plotting_state successfully trained.
+2025-05-13 15:17:55,033 - INFO - Intent classifier in plotting_type_state successfully trained.
+2025-05-13 15:17:55,033 - INFO - telegram_agent training finished
+2025-05-13 15:17:55,241 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 15:18:00,216 - INFO - [initial_state] Running body initial_body
+2025-05-13 15:18:00,260 - INFO - Received event: receive_message_text (hi)
+2025-05-13 15:18:00,260 - INFO - Detected intent: fallback_intent
+2025-05-13 15:18:00,260 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 15:18:04,116 - INFO - Received event: receive_message_text (plot)
+2025-05-13 15:18:04,117 - INFO - Detected intent: plot_intent
+2025-05-13 15:18:04,117 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 15:18:04,117 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:18:07,493 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 15:18:07,494 - INFO - Detected intent: fallback_intent
+2025-05-13 15:18:07,494 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [plotting_state]
+2025-05-13 15:18:07,496 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:18:12,551 - INFO - Received event: receive_message_text (x = h y = ui)
+2025-05-13 15:18:12,551 - INFO - Detected intent: fallback_intent
+2025-05-13 15:18:12,552 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [plotting_state]
+2025-05-13 15:18:12,552 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:18:28,056 - INFO - Received event: receive_message_json
+2025-05-13 15:18:46,271 - INFO - Received event: receive_message_text ([a,b,c,d])
+2025-05-13 15:18:46,271 - INFO - Detected intent: fallback_intent
+2025-05-13 15:18:46,272 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [plotting_state]
+2025-05-13 15:18:46,272 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:18:52,744 - INFO - Received event: receive_message_text ([a,b,c,d])
+2025-05-13 15:18:52,744 - INFO - Detected intent: fallback_intent
+2025-05-13 15:18:52,745 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [plotting_state]
+2025-05-13 15:18:52,745 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:19:01,638 - INFO - Received event: receive_message_json
+2025-05-13 15:19:08,079 - INFO - Received event: receive_message_json
+2025-05-13 15:19:53,322 - INFO - Stopping agent telegram_agent
+2025-05-13 15:19:53,323 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 15:19:58,454 - INFO - telegram_agent execution finished due to KeyboardInterrupt
+2025-05-13 15:20:27,126 - INFO - Stemmer added: english
+2025-05-13 15:20:27,156 - INFO - telegram_agent training started
+2025-05-13 15:20:27,156 - INFO - NER successfully trained.
+2025-05-13 15:20:29,696 - INFO - Intent classifier in initial_state successfully trained.
+2025-05-13 15:20:30,729 - INFO - Intent classifier in awaiting_state successfully trained.
+2025-05-13 15:20:31,429 - INFO - Intent classifier in plotting_state successfully trained.
+2025-05-13 15:20:32,128 - INFO - Intent classifier in plotting_type_state successfully trained.
+2025-05-13 15:20:32,128 - INFO - telegram_agent training finished
+2025-05-13 15:20:32,327 - INFO - telegram_agent's TelegramPlatform starting
+2025-05-13 15:20:34,516 - INFO - [initial_state] Running body initial_body
+2025-05-13 15:20:34,590 - INFO - Received event: receive_message_text (hi)
+2025-05-13 15:20:34,590 - INFO - Detected intent: fallback_intent
+2025-05-13 15:20:34,590 - INFO - [initial_state] Running fallback body default_fallback_body
+2025-05-13 15:20:36,919 - INFO - Received event: receive_message_text (plot)
+2025-05-13 15:20:36,920 - INFO - Detected intent: plot_intent
+2025-05-13 15:20:36,920 - INFO - receive_message_text (Intent Matching - plot_intent): [initial_state] --> [plotting_state]
+2025-05-13 15:20:36,920 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:20:40,472 - INFO - Received event: receive_message_text (histogram)
+2025-05-13 15:20:40,472 - INFO - Detected intent: fallback_intent
+2025-05-13 15:20:40,473 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [plotting_state]
+2025-05-13 15:20:40,473 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:20:48,448 - INFO - Received event: receive_message_text (x=hui y=iu)
+2025-05-13 15:20:48,448 - INFO - Detected intent: fallback_intent
+2025-05-13 15:20:48,449 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [plotting_state]
+2025-05-13 15:20:48,449 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:20:54,316 - INFO - Received event: receive_message_text ([a,b,n])
+2025-05-13 15:20:54,316 - INFO - Detected intent: fallback_intent
+2025-05-13 15:20:54,316 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [plotting_state]
+2025-05-13 15:20:54,317 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:20:58,629 - INFO - Received event: receive_message_json
+2025-05-13 15:21:41,383 - INFO - Received event: receive_message_json
+2025-05-13 15:21:46,307 - INFO - Received event: receive_message_text (1,2)
+2025-05-13 15:21:46,307 - INFO - Detected intent: fallback_intent
+2025-05-13 15:21:46,308 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [plotting_state]
+2025-05-13 15:21:46,308 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:21:57,951 - INFO - Received event: receive_message_text (bye)
+2025-05-13 15:21:57,952 - INFO - Detected intent: fallback_intent
+2025-05-13 15:21:57,952 - INFO - receive_message_text (Intent Matching - fallback_intent): [plotting_state] --> [plotting_state]
+2025-05-13 15:21:57,952 - INFO - [plotting_state] Running body plotting_body
+2025-05-13 15:22:04,995 - INFO - Stopping agent telegram_agent
+2025-05-13 15:22:04,996 - INFO - telegram_agent's TelegramPlatform stopped
+2025-05-13 15:22:08,032 - INFO - telegram_agent execution finished due to KeyboardInterrupt
